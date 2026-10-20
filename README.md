@@ -42,7 +42,7 @@ Skills are on every Claude plan, Free included. On Team and Enterprise you can s
 
 ### ChatGPT
 
-OpenAI's help centre lists skills in ChatGPT on the Business, Enterprise, Healthcare and Edu plans (checked 30 September 2026). [Steps to add a skill: check at build against [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt).]
+OpenAI's help centre describes skills in ChatGPT: [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt). Which plans have them, and how to add one, are on that page.
 
 ### Any other AI
 
