@@ -1,0 +1,115 @@
+{
+  "publisher": "Alcoven",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "ux-designer",
+      "source": "https://alcoven.co/skills/ux-designer",
+      "version": "1",
+      "summary": "Designs a feature's user experience before it is built, and writes it as a spec with acceptance checks.",
+      "category": "Design and research",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-20",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "ux",
+          "user experience",
+          "user research",
+          "usability",
+          "onboarding",
+          "user flow",
+          "user journey",
+          "journey map",
+          "wireframe",
+          "jobs to be done",
+          "jtbd",
+          "persona",
+          "edge cases",
+          "empty state",
+          "ux spec"
+        ],
+        "tr": [
+          "kullanıcı deneyimi",
+          "kullanıcı araştırması",
+          "kullanılabilirlik",
+          "kullanıcı akışı",
+          "kullanıcı yolculuğu",
+          "kullanıcı testi",
+          "arayüz tasarımı",
+          "ekran tasarımı",
+          "tel çerçeve"
+        ]
+      },
+      "folders": [
+        "ux",
+        "design",
+        "user-research",
+        "wireframes",
+        "tasarim"
+      ]
+    },
+    {
+      "name": "gtm-review",
+      "source": "https://alcoven.co/skills/gtm-review",
+      "version": "1",
+      "summary": "Reads the go-to-market plan, the team's records and the numbers, and says where plan and reality differ.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-20",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "go-to-market",
+          "gtm",
+          "marketing plan",
+          "launch plan",
+          "growth plan",
+          "outreach",
+          "sign-ups",
+          "signups",
+          "pricing",
+          "customer acquisition",
+          "lead generation",
+          "conversion rate",
+          "traction",
+          "mrr",
+          "cold email",
+          "is the plan working"
+        ],
+        "tr": [
+          "pazara giriş",
+          "pazarlama planı",
+          "pazarlama stratejisi",
+          "lansman planı",
+          "büyüme planı",
+          "müşteri kazanımı",
+          "potansiyel müşteri",
+          "fiyatlandırma",
+          "dönüşüm oranı",
+          "satış hedefi",
+          "soğuk e-posta",
+          "plan işliyor mu"
+        ]
+      },
+      "folders": [
+        "gtm",
+        "marketing",
+        "growth",
+        "sales",
+        "outreach",
+        "launch",
+        "pazarlama",
+        "satis"
+      ]
+    }
+  ]
+}
