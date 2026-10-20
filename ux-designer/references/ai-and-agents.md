@@ -59,7 +59,7 @@ And from Google's People + AI Guidebook and NN/g:
 - Let people see, edit and erase what the system learned about them, and reset it. Say what their feedback changes and when; promise only what the system does. [PF]
 - Change behaviour cautiously, announce changes, and re-introduce a feature after a significant one. [H 14, 18][PM]
 
-**Proposals, not surprises.** For anything others will see or that is hard to undo, the AI proposes and a person decides. What it may do on its own is written down and small. An automatic action is something people can read and reverse, with who asked for it. In a shared space others see the person's name on the change, with the AI named beside it.
+**The AI proposes; a person decides.** For anything others will see or that is hard to undo, the AI proposes and a person decides. What it may do on its own is written down and small. An automatic action is something people can read and reverse, with who asked for it. In a shared space others see the person's name on the change, with the AI named beside it.
 
 ## Suggestions that are welcome
 

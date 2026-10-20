@@ -24,12 +24,12 @@ The rules behind each step of the method. Where they disagree, the product's exi
 
 - Do a light task analysis: the goal, then each step with how often it happens, how long it takes and the decision in it. Then cut steps and repeated input.
 - Show first what people need often; put the rest one labelled step away, two levels at most. Give frequent actions shortcuts that stay out of a newcomer's way.
-- Friction follows severity and reversibility, not rarity. Easy to undo: no friction. Harder to undo: one extra step. Hard to undo or cascading: a dialog that names the consequences.
+- Friction follows severity and reversibility; how rare a task is doesn't decide it. Easy to undo: no friction. Harder to undo: one extra step. Hard to undo or cascading: a dialog that names the consequences.
 - Keep destructive actions apart from routine ones (people on autopilot click what is near): never next to the primary action, never the primary button, marked by more than colour.
 
 ## Journeys
 
-- For one feature, draw a user flow, not a journey map: the trigger, the ways in and how people find them, each step with the product's answer, the decision points, the exits (done, cancelled, failed) and how to recover from each failure. Use a journey map for a whole experience over days, and a service blueprint when the work behind the screen (people, systems, agents) is the problem.
+- For one feature, draw a user flow: the trigger, the ways in and how people find them, each step with the product's answer, the decision points, the exits (done, cancelled, failed) and how to recover from each failure. Keep journey maps for a whole experience over days, and a service blueprint when the work behind the screen (people, systems, agents) is the problem.
 - Walk the flow through every door the feature has. A person in the app, the same person through their AI assistant, and a coding agent in a folder should reach the same result by the same rules.
 - Design the most common path first and keep it shortest; branch rare cases off it.
 - Time to value: count the steps from the trigger to the moment the person gets what they came for. Every step before that moment is a reason to leave; cut it, defer it, or do it for them.
