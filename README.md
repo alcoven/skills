@@ -56,7 +56,7 @@ Add one to a project from its page: [alcoven.co/skills](https://alcoven.co/skill
 
 ## Versions
 
-Each skill's version is in its `SKILL.md` (`metadata`, `version`) and in [`catalog.json`](catalog.json), with a line on what changed in each version. `catalog.json` also holds each skill's one-line summary, its category, and the words and folder names that lead Alcoven to suggest it to a project, in English and Turkish.
+Each skill's version is in its `SKILL.md` (`metadata`, `version`) and in [`catalog.json`](catalog.json), with a line on what changed in each version. `catalog.json` also holds each skill's short title (45 characters at most, the title of its page), its one-line summary, its category, and the words and folder names that lead Alcoven to suggest it to a project, in English and Turkish.
 
 ## Problems and your own skills
 

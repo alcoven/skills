@@ -5,6 +5,7 @@
     {
       "name": "ux-designer",
       "source": "https://alcoven.co/skills/ux-designer",
+      "title": "Design a feature's UX before you build it",
       "version": "1",
       "summary": "Designs a feature's user experience before it is built, and writes it as a spec with acceptance checks.",
       "category": "Design and research",
@@ -56,6 +57,7 @@
     {
       "name": "gtm-review",
       "source": "https://alcoven.co/skills/gtm-review",
+      "title": "Is the go-to-market plan working?",
       "version": "1",
       "summary": "Reads the go-to-market plan, the team's records and the numbers, and says where plan and reality differ.",
       "category": "Marketing and sales",
