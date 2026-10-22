@@ -12,7 +12,7 @@ The methods come from the people who wrote them down, among them Marty Cagan, Te
 
 | Skill | What it does |
 |---|---|
-| [product-coach](product-coach/) | A short check before a team commits time: the problem and who has it, the outcome and its measure, the evidence and its age, the riskiest assumption and the cheapest way to check it. Then it hands over to the skill that fits. |
+| [product-coach](product-coach/) | Starts a broad or vague ask ("how can we make more money?", "sales are bad") with a plain-words diagnosis of where the money or the customers are lost, and checks a proposed piece of work before a team commits time: the problem, the outcome, the evidence, the riskiest assumption and the cheapest check. Then it hands over to the skill that fits. |
 | [product-strategy](product-strategy/) | Writes or reviews a strategy (the diagnosis, the approach, the few actions, what you will not do), sets one to three measured outcomes and a now, next, later roadmap, and checks new work against it. |
 | [product-discovery](product-discovery/) | Decides what is worth building before it is built: the problem behind a request, several ideas compared, and the riskiest assumptions tested in days. |
 | [lean-experiments](lean-experiments/) | Tests the assumption that would sink a plan with the smallest test that gives a real answer and a pass line written first, then frames the call to persevere, pivot or stop. |
@@ -33,7 +33,10 @@ The methods come from the people who wrote them down, among them Marty Cagan, Te
 |---|---|
 | [positioning](positioning/) | Works out positioning from customer evidence with April Dunford's method, writes a one-page canvas, and checks the homepage, pitch and ads against it. |
 | [growth](growth/) | Checks that customers would miss the product before growing it, then sets a north star and a growth model and runs a weekly test cycle the team learns from. |
+| [gtm-plan](gtm-plan/) | Writes a go-to-market plan for winning the first customers: who to sell to first, a few channels to test cheaply, founder-led sales when the product needs selling, targets with dates and a record of what each brings. |
 | [gtm-review](gtm-review/) | Answers "is the plan working?" for a go-to-market plan: each target beside what the team did and the numbers, with the newest date, the gap and what couldn't be counted, every line cited. |
+| [retention](retention/) | Finds why paying customers leave, from billing records and what the leavers say, picks the one fix likely to keep the most of them, and sets up a monthly look at who left and why. |
+| [pricing](pricing/) | Sets prices and plans from evidence of what customers pay, tests changes on new customers first, and plans a price rise for existing customers fairly. |
 | [seo](seo/) | Audits a site for search (can it be crawled, indexed and read, does each page answer what people search), plans pages from search demand and customers' words, and measures the change honestly. |
 | [ai-visibility](ai-visibility/) | Asks AI engines the questions buyers ask, week after week, records who is named and which pages are cited, checks that AI crawlers can read the site, and plans how to earn a place in the answers. |
 | [youtube-expert](youtube-expert/) | Picks video topics from measured evidence, shapes the title, thumbnail and first seconds, reviews scripts and cuts against a dated playbook, and reads the numbers afterwards. |

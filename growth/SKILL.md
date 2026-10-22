@@ -4,7 +4,7 @@ description: Grows a product some people already want. Checks must-have first (t
 license: MIT
 metadata:
   source: https://alcoven.co/skills/growth
-  version: "1"
+  version: "2"
 ---
 
 # Growth: grow what people already want
@@ -19,6 +19,15 @@ Growth work multiplies what the product already does for people. If few would mi
 - **The test log** and the plan with its targets, if they exist, and **who can ship** a product change this week.
 
 Look in `growth/`, `metrics/`, `numbers/`, `gtm/` or `analytics/`. If you only have what was pasted, work with it and list what is missing.
+
+**With no numbers yet,** get rough ones before anything else: in an hour, from the billing records, how many customers paid each month for the last six months, who stopped, and how each current customer found the product; then, this week, three calls with customers who stayed and three who left. Ask for nothing more until those are in.
+
+## Plain words, the right customer, small numbers
+
+- **Say it in the person's words first.** "Do enough customers love it" before "must-have", "the moment a new customer first gets value" before "aha moment", "the one number that shows customers getting value" before "north star". Define a term once, in a line, when it helps.
+- **Ask which customer.** When the one who pays differs from the one who uses (a shop and its shoppers, a company and its staff), ask which side "customers" means, and check both: the payer rarely keeps paying for long once the users stop.
+- **With few customers, change the method.** With a few dozen customers, a survey percentage means little and growth loops have too few people to turn. Count by hand, talk to the customers who stayed and the ones who left, and look for what the stayers did early. Use the 40% survey line (step 1) and the loops once there are enough customers for a share to mean something.
+- **If customers are leaving, start there.** Hand over to the retention skill, if the project has it, before any work on bringing in more; for a broad "how do we make more money", the product-coach skill finds where it leaks first.
 
 ## The method
 
