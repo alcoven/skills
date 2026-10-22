@@ -4,10 +4,43 @@ Skills for AI agents, kept by [Alcoven](https://alcoven.co) and free under the M
 
 ## The skills
 
+Each skill does the work it is asked for, and checks on the way that it is the right work: the evidence behind it, the mistakes teams commonly make at that step, and a record someone can find later. It says a concern once, with the cheapest way to check it, and the person decides. Not sure which one fits? Start with `product-coach`.
+
+The methods come from the people who wrote them down, among them Marty Cagan, Teresa Torres, Eric Ries, April Dunford, Sean Ellis and Morgan Brown, Rob Fitzpatrick, Richard Rumelt, Andy Grove and Kim Scott. Each skill's `references/` names its sources, with the date they were read.
+
+### Product and planning
+
+| Skill | What it does |
+|---|---|
+| [product-coach](product-coach/) | A short check before a team commits time: the problem and who has it, the outcome and its measure, the evidence and its age, the riskiest assumption and the cheapest way to check it. Then it hands over to the skill that fits. |
+| [product-strategy](product-strategy/) | Writes or reviews a strategy (the diagnosis, the approach, the few actions, what you will not do), sets one to three measured outcomes and a now, next, later roadmap, and checks new work against it. |
+| [product-discovery](product-discovery/) | Decides what is worth building before it is built: the problem behind a request, several ideas compared, and the riskiest assumptions tested in days. |
+| [lean-experiments](lean-experiments/) | Tests the assumption that would sink a plan with the smallest test that gives a real answer and a pass line written first, then frames the call to persevere, pivot or stop. |
+| [metrics](metrics/) | Picks a north star, inputs and guardrails, defines each in writing, and reads a dashboard or a change honestly before the team decides. |
+| [decision-making](decision-making/) | Sizes a decision by how hard it is to undo, scales the process to it, names one decider, and writes the decision record for the team to agree to. |
+
+### Design and research
+
 | Skill | What it does |
 |---|---|
 | [ux-designer](ux-designer/) | Designs a feature's user experience before it is built: the job behind the request, how often it comes, every way in, the edge cases and states, then a spec with acceptance checks. |
+| [customer-interviews](customer-interviews/) | Picks who to talk to, writes the guide for the decision at hand, checks notes for leading questions and opinions, and turns several interviews into findings with counts and dated quotes. |
+| [market-watch](market-watch/) | A weekly scan of customers' words, competitors, the platforms you depend on and the rules, written as a dated brief that says what each change means for the team. |
+
+### Marketing and sales
+
+| Skill | What it does |
+|---|---|
+| [positioning](positioning/) | Works out positioning from customer evidence with April Dunford's method, writes a one-page canvas, and checks the homepage, pitch and ads against it. |
+| [growth](growth/) | Checks that customers would miss the product before growing it, then sets a north star and a growth model and runs a weekly test cycle the team learns from. |
 | [gtm-review](gtm-review/) | Answers "is the plan working?" for a go-to-market plan: each target beside what the team did and the numbers, with the newest date, the gap and what couldn't be counted, every line cited. |
+| [youtube-expert](youtube-expert/) | Picks video topics from measured evidence, shapes the title, thumbnail and first seconds, reviews scripts and cuts against a dated playbook, and reads the numbers afterwards. |
+
+### Legal and people
+
+| Skill | What it does |
+|---|---|
+| [people-manager](people-manager/) | Prepares 1:1s, writes feedback and delegation briefs, runs team meetings and retros, and spots overload in the project's record without ranking anyone. |
 
 Each skill also has a page at `alcoven.co/skills/<name>`, with its full text and its versions.
 

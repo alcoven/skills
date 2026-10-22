@@ -3,6 +3,340 @@
   "license": "MIT",
   "skills": [
     {
+      "name": "product-coach",
+      "source": "https://alcoven.co/skills/product-coach",
+      "title": "Check you're building the right thing",
+      "version": "1",
+      "summary": "Checks the problem, outcome, evidence and riskiest assumption before a team commits time, then picks the method.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "product management",
+          "product manager",
+          "are we building the right thing",
+          "what are we missing",
+          "review this plan",
+          "sanity check this plan",
+          "is this worth building",
+          "product coach",
+          "common product mistakes",
+          "before we build",
+          "right problem"
+        ],
+        "tr": [
+          "ürün yönetimi",
+          "ürün yöneticisi",
+          "doğru şeyi mi yapıyoruz",
+          "neyi kaçırıyoruz",
+          "bu planı gözden geçir",
+          "geliştirmeye değer mi",
+          "ürün koçu"
+        ]
+      },
+      "folders": [
+        "product",
+        "product-management",
+        "pm",
+        "urun"
+      ]
+    },
+    {
+      "name": "product-strategy",
+      "source": "https://alcoven.co/skills/product-strategy",
+      "title": "Choose the team's focus and what to drop",
+      "version": "1",
+      "summary": "Writes or reviews a product strategy, sets a few measured outcomes and a roadmap, and checks new work against it.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "product strategy",
+          "product vision",
+          "product roadmap",
+          "now next later",
+          "okrs",
+          "objectives and key results",
+          "key results",
+          "quarterly planning",
+          "prioritisation",
+          "prioritization",
+          "too many priorities",
+          "stop doing list",
+          "what we won't do",
+          "guiding policy",
+          "strategy review",
+          "rice score",
+          "betting table"
+        ],
+        "tr": [
+          "ürün stratejisi",
+          "ürün vizyonu",
+          "yol haritası",
+          "okr",
+          "hedefler ve anahtar sonuçlar",
+          "önceliklendirme",
+          "çeyreklik planlama",
+          "çeyreklik hedefler",
+          "neleri yapmayacağız",
+          "strateji dokümanı",
+          "odak alanları",
+          "çok fazla öncelik"
+        ]
+      },
+      "folders": [
+        "strategy",
+        "roadmap",
+        "okrs",
+        "strateji",
+        "yol-haritasi"
+      ]
+    },
+    {
+      "name": "product-discovery",
+      "source": "https://alcoven.co/skills/product-discovery",
+      "title": "Decide what to build before you build it",
+      "version": "1",
+      "summary": "Finds the problem behind a request, compares several ideas and tests the riskiest assumptions before anything is built.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "product discovery",
+          "continuous discovery",
+          "feature request",
+          "should we build this",
+          "is this feature worth building",
+          "what to build next",
+          "opportunity tree",
+          "assumption testing",
+          "assumption mapping",
+          "prototype test",
+          "product trio",
+          "four big risks",
+          "value risk",
+          "discovery vs delivery",
+          "feature factory",
+          "outcomes over output"
+        ],
+        "tr": [
+          "ürün keşfi",
+          "sürekli keşif",
+          "özellik talebi",
+          "bunu yapmalı mıyız",
+          "neyi geliştirmeliyiz",
+          "fırsat ağacı",
+          "varsayım testi",
+          "prototip testi",
+          "product trio",
+          "müşteri problemi",
+          "değer riski",
+          "discovery ve delivery"
+        ]
+      },
+      "folders": [
+        "discovery",
+        "product-discovery",
+        "opportunities",
+        "prototypes",
+        "assumptions",
+        "kesif",
+        "urun-kesfi"
+      ]
+    },
+    {
+      "name": "lean-experiments",
+      "source": "https://alcoven.co/skills/lean-experiments",
+      "title": "Test the riskiest assumption before building",
+      "version": "1",
+      "summary": "Finds a plan's riskiest assumption, tests it with the smallest test and a pass line set first, then decides.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "lean startup",
+          "mvp",
+          "minimum viable product",
+          "riskiest assumption",
+          "leap of faith assumption",
+          "validate the idea",
+          "smoke test",
+          "fake door test",
+          "landing page test",
+          "concierge mvp",
+          "wizard of oz test",
+          "pretotype",
+          "a/b test",
+          "split test",
+          "pivot or persevere",
+          "should we pivot",
+          "experiment log",
+          "test card"
+        ],
+        "tr": [
+          "yalın girişim",
+          "minimum uygulanabilir ürün",
+          "en riskli varsayım",
+          "fikri doğrulamak",
+          "varsayımı test etmek",
+          "deney tasarımı",
+          "a/b testi",
+          "fake door testi",
+          "açılış sayfası testi",
+          "ön satış testi",
+          "pivot kararı",
+          "deney kaydı"
+        ]
+      },
+      "folders": [
+        "experiments",
+        "validation",
+        "mvp",
+        "hypotheses",
+        "deneyler",
+        "dogrulama"
+      ]
+    },
+    {
+      "name": "metrics",
+      "source": "https://alcoven.co/skills/metrics",
+      "title": "Pick your metrics and read them honestly",
+      "version": "1",
+      "summary": "Picks a north star, inputs and guardrails, defines each metric, and reads changes honestly before the team decides.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "north star metric",
+          "kpi",
+          "pick our kpis",
+          "kpi dashboard",
+          "input metrics",
+          "guardrail metric",
+          "counter-metric",
+          "vanity metrics",
+          "cohort analysis",
+          "retention curve",
+          "metric definition",
+          "one metric that matters",
+          "metric tree",
+          "why did the number drop",
+          "is this real or noise",
+          "data-driven decision",
+          "simpson's paradox",
+          "leading indicator"
+        ],
+        "tr": [
+          "kuzey yıldızı metriği",
+          "metrik seçimi",
+          "performans göstergeleri",
+          "kpi dashboard",
+          "öncü gösterge",
+          "kohort analizi",
+          "vanity metrikler",
+          "metrik tanımı",
+          "veriye dayalı karar",
+          "rakamlar neden düştü",
+          "guardrail metriği",
+          "metrik ağacı"
+        ]
+      },
+      "folders": [
+        "metrics",
+        "kpis",
+        "analytics",
+        "dashboards",
+        "numbers",
+        "metrikler",
+        "olcumler"
+      ]
+    },
+    {
+      "name": "decision-making",
+      "source": "https://alcoven.co/skills/decision-making",
+      "title": "Make a decision and put it on record",
+      "version": "1",
+      "summary": "Sizes a decision, scales the process to it, names one decider, and writes the record for the team to agree to.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "decision record",
+          "decision log",
+          "adr",
+          "architecture decision record",
+          "one-way door",
+          "two-way door",
+          "pre-mortem",
+          "premortem",
+          "disagree and commit",
+          "daci",
+          "decision matrix",
+          "who decides",
+          "help us decide",
+          "reversible decision",
+          "revisit the decision",
+          "decision-making process"
+        ],
+        "tr": [
+          "karar verme",
+          "karar kaydı",
+          "karar günlüğü",
+          "kim karar verecek",
+          "karar vermemize yardım et",
+          "geri dönüşü olmayan karar",
+          "geri alınabilir karar",
+          "karar toplantısı",
+          "kararı tekrar tartışmaya açmak"
+        ]
+      },
+      "folders": [
+        "decisions",
+        "adr",
+        "adrs",
+        "decision-log",
+        "decision-records",
+        "kararlar",
+        "karar-kayitlari"
+      ]
+    },
+    {
       "name": "ux-designer",
       "source": "https://alcoven.co/skills/ux-designer",
       "title": "Design a feature's UX before you build it",
@@ -52,6 +386,240 @@
         "user-research",
         "wireframes",
         "tasarim"
+      ]
+    },
+    {
+      "name": "customer-interviews",
+      "source": "https://alcoven.co/skills/customer-interviews",
+      "title": "Customer interviews: ask what they did",
+      "version": "1",
+      "summary": "Picks who to talk to, writes the interview guide, checks notes for bias and turns interviews into evidence.",
+      "category": "Design and research",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "customer interviews",
+          "customer interview",
+          "user interviews",
+          "interview guide",
+          "discussion guide",
+          "mom test",
+          "switch interview",
+          "talk to customers",
+          "interview notes",
+          "interview transcript",
+          "interview synthesis",
+          "affinity mapping",
+          "churn interviews",
+          "survey questions",
+          "customer survey",
+          "would you use this",
+          "recruit participants"
+        ],
+        "tr": [
+          "müşteri görüşmesi",
+          "müşteri görüşmeleri",
+          "kullanıcı görüşmesi",
+          "görüşme rehberi",
+          "görüşme notları",
+          "müşteriyle konuşmak",
+          "anket soruları",
+          "müşteri anketi",
+          "switch görüşmesi",
+          "jtbd görüşmesi",
+          "görüşme sentezi",
+          "katılımcı bulmak"
+        ]
+      },
+      "folders": [
+        "interviews",
+        "customer-interviews",
+        "customer-research",
+        "gorusmeler"
+      ]
+    },
+    {
+      "name": "market-watch",
+      "source": "https://alcoven.co/skills/market-watch",
+      "title": "Keep up with your market each week",
+      "version": "1",
+      "summary": "Reads your customers' words, competitors and trends each week, and writes a dated brief on what each change means for you.",
+      "category": "Design and research",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "market watch",
+          "market trends",
+          "industry trends",
+          "competitor analysis",
+          "competitive analysis",
+          "competitor tracking",
+          "competitive intelligence",
+          "keep up with trends",
+          "what changed in the market",
+          "weekly market brief",
+          "trend report",
+          "competitor watchlist",
+          "win-loss analysis",
+          "competitor pricing",
+          "competitor launch",
+          "hype cycle",
+          "market scan"
+        ],
+        "tr": [
+          "pazar takibi",
+          "pazar trendleri",
+          "sektör trendleri",
+          "rakip analizi",
+          "rakip takibi",
+          "rekabet istihbaratı",
+          "haftalık pazar özeti",
+          "trendleri takip etmek",
+          "kaybedilen satış analizi",
+          "win-loss analizi",
+          "rakip fiyatları",
+          "sektör haberleri"
+        ]
+      },
+      "folders": [
+        "market",
+        "competitors",
+        "market-watch",
+        "trends",
+        "competitive-intel",
+        "rakipler",
+        "pazar"
+      ]
+    },
+    {
+      "name": "positioning",
+      "source": "https://alcoven.co/skills/positioning",
+      "title": "Positioning: who it's for and why you win",
+      "version": "1",
+      "summary": "Works out positioning from customer evidence, writes a one-page canvas, and checks homepage, pitch and ads against it.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "product positioning",
+          "our positioning",
+          "market positioning",
+          "positioning canvas",
+          "positioning statement",
+          "repositioning",
+          "april dunford",
+          "obviously awesome",
+          "competitive alternatives",
+          "best-fit customers",
+          "market category",
+          "differentiated value",
+          "value proposition",
+          "brand messaging",
+          "homepage copy",
+          "sales pitch",
+          "why prospects don't get it",
+          "category creation"
+        ],
+        "tr": [
+          "konumlandırma",
+          "ürün konumlandırması",
+          "yeniden konumlandırma",
+          "farklılaşma",
+          "değer önerisi",
+          "pazar kategorisi",
+          "ideal müşteri profili",
+          "satış sunumu",
+          "ana sayfa metni",
+          "mesaj stratejisi",
+          "rakiplerden farkımız",
+          "kategori yaratma"
+        ]
+      },
+      "folders": [
+        "positioning",
+        "sales-pitch",
+        "website-copy",
+        "konumlandirma"
+      ]
+    },
+    {
+      "name": "growth",
+      "source": "https://alcoven.co/skills/growth",
+      "title": "Grow a product people already want",
+      "version": "1",
+      "summary": "Checks first that customers would miss the product, then sets a north star and a growth model, and runs a weekly test cycle the team learns from.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "growth hacking",
+          "hacking growth",
+          "growth loop",
+          "growth model",
+          "growth team",
+          "growth experiments",
+          "growth meeting",
+          "aha moment",
+          "activation rate",
+          "improve retention",
+          "referral loop",
+          "viral loop",
+          "product-led growth",
+          "sean ellis test",
+          "product market fit survey",
+          "aarrr",
+          "ice score",
+          "network effects",
+          "how do we grow"
+        ],
+        "tr": [
+          "büyüme deneyleri",
+          "büyüme döngüsü",
+          "büyüme ekibi",
+          "büyüme modeli",
+          "ürün odaklı büyüme",
+          "aktivasyon oranı",
+          "müşteri elde tutma",
+          "elde tutma oranı",
+          "tavsiye programı",
+          "ağ etkisi",
+          "viral büyüme",
+          "aha anı",
+          "nasıl büyürüz",
+          "referans programı"
+        ]
+      },
+      "folders": [
+        "growth",
+        "growth-experiments",
+        "activation",
+        "retention",
+        "buyume",
+        "buyume-deneyleri"
       ]
     },
     {
@@ -111,6 +679,121 @@
         "launch",
         "pazarlama",
         "satis"
+      ]
+    },
+    {
+      "name": "youtube-expert",
+      "source": "https://alcoven.co/skills/youtube-expert",
+      "title": "Make YouTube videos people watch",
+      "version": "1",
+      "summary": "Picks video topics from measured evidence, shapes titles, thumbnails and openings, and reads the numbers afterwards.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "youtube",
+          "youtube channel",
+          "youtube video",
+          "youtube shorts",
+          "instagram reels",
+          "tiktok",
+          "video ideas",
+          "video script",
+          "video thumbnail",
+          "video title",
+          "audience retention",
+          "click-through rate",
+          "first three seconds",
+          "more views",
+          "outlier videos"
+        ],
+        "tr": [
+          "youtube kanalı",
+          "youtube videosu",
+          "kısa video",
+          "izlenme",
+          "izlenme sayısı",
+          "küçük resim",
+          "video başlığı",
+          "video senaryosu",
+          "izleyici tutma oranı",
+          "video fikri"
+        ]
+      },
+      "folders": [
+        "youtube",
+        "video",
+        "videos",
+        "shorts",
+        "reels",
+        "videolar"
+      ]
+    },
+    {
+      "name": "people-manager",
+      "source": "https://alcoven.co/skills/people-manager",
+      "title": "Manage people well, week by week",
+      "version": "1",
+      "summary": "Prepares 1:1s, feedback and delegation briefs, plans meetings and retros, and spots overload without ranking anyone.",
+      "category": "Legal and people",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "1:1",
+          "one-on-one",
+          "1:1 prep",
+          "direct reports",
+          "new manager",
+          "managing people",
+          "give feedback",
+          "feedback conversation",
+          "delegate work",
+          "delegate this",
+          "career conversation",
+          "performance review",
+          "underperformance",
+          "hard conversation",
+          "team retro",
+          "sprint retrospective",
+          "psychological safety",
+          "team meeting agenda"
+        ],
+        "tr": [
+          "birebir görüşme",
+          "bire bir toplantı",
+          "geri bildirim vermek",
+          "ekip yönetimi",
+          "yeni yönetici",
+          "görev devretmek",
+          "yetki devri",
+          "kariyer görüşmesi",
+          "performans değerlendirmesi",
+          "düşük performans",
+          "zor konuşma",
+          "retrospektif",
+          "psikolojik güvenlik"
+        ]
+      },
+      "folders": [
+        "people",
+        "one-on-ones",
+        "1on1",
+        "managers",
+        "retros",
+        "hr",
+        "birebir"
       ]
     }
   ]
