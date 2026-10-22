@@ -1,10 +1,10 @@
 ---
 name: product-coach
-description: A senior colleague's short check before a team commits time. Use when someone asks to build, launch, plan, redesign, price, hire for or grow something sizeable, when a request names a fix without the problem, or when they ask "are we building the right thing", "what are we missing" or "review this plan". Names the problem and who has it, the outcome and how it will be measured, the evidence and its age, the riskiest assumption and the cheapest way to check it, and what is already decided on the project. Flags the common mistakes it sees, gives a verdict (go, check first, or rethink), then hands over to the method that fits (positioning, product discovery, lean experiments, growth, metrics, customer interviews, market watch, product strategy, decision making, people management, UX design, go-to-market review) and does the work the person chooses.
+description: A senior colleague's short check before a team commits time. Use when someone asks to build, launch, plan, redesign, price, hire for or grow something sizeable, when a request names a fix without the problem, or when they ask "are we building the right thing", "what are we missing" or "review this plan". Names the problem and who has it, the outcome and how it will be measured, the evidence and its age, the riskiest assumption and the cheapest way to check it, and what is already decided on the project. Flags the common mistakes it sees, gives a verdict (go, check first, or rethink), then hands over to the method that fits (positioning, product discovery, lean experiments, growth, metrics, customer interviews, market watch, product strategy, decision making, people management, UX design, go-to-market review, SEO, AI visibility) and does the work the person chooses.
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-coach
-  version: "1"
+  version: "2"
 ---
 
 # Product coach: the right thing first, then done well
@@ -60,6 +60,8 @@ Then do what the person chooses. If they go ahead past a concern, write the open
 | Growing a product people already want | `growth` |
 | Choosing the measures, reading a dashboard or a change | `metrics` |
 | Is the go-to-market plan working | `gtm-review` |
+| Being found in Google and other search engines | `seo` |
+| Being named and cited in AI answers (ChatGPT, Claude, Perplexity, AI Overviews) | `ai-visibility` |
 | What changed in the market, competitors, trends | `market-watch` |
 | A decision to make and put on record | `decision-making` |
 | 1:1s, feedback, delegation, team health | `people-manager` |

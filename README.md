@@ -34,6 +34,8 @@ The methods come from the people who wrote them down, among them Marty Cagan, Te
 | [positioning](positioning/) | Works out positioning from customer evidence with April Dunford's method, writes a one-page canvas, and checks the homepage, pitch and ads against it. |
 | [growth](growth/) | Checks that customers would miss the product before growing it, then sets a north star and a growth model and runs a weekly test cycle the team learns from. |
 | [gtm-review](gtm-review/) | Answers "is the plan working?" for a go-to-market plan: each target beside what the team did and the numbers, with the newest date, the gap and what couldn't be counted, every line cited. |
+| [seo](seo/) | Audits a site for search (can it be crawled, indexed and read, does each page answer what people search), plans pages from search demand and customers' words, and measures the change honestly. |
+| [ai-visibility](ai-visibility/) | Asks AI engines the questions buyers ask, week after week, records who is named and which pages are cited, checks that AI crawlers can read the site, and plans how to earn a place in the answers. |
 | [youtube-expert](youtube-expert/) | Picks video topics from measured evidence, shapes the title, thumbnail and first seconds, reviews scripts and cuts against a dated playbook, and reads the numbers afterwards. |
 
 ### Legal and people

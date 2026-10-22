@@ -6,7 +6,7 @@
       "name": "product-coach",
       "source": "https://alcoven.co/skills/product-coach",
       "title": "Check you're building the right thing",
-      "version": "1",
+      "version": "2",
       "summary": "Checks the problem, outcome, evidence and riskiest assumption before a team commits time, then picks the method.",
       "category": "Product and planning",
       "versions": [
@@ -14,6 +14,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-22",
+          "changes": "Hands over to the new seo and ai-visibility skills."
         }
       ],
       "words": {
@@ -682,6 +687,130 @@
         "launch",
         "pazarlama",
         "satis"
+      ]
+    },
+    {
+      "name": "seo",
+      "source": "https://alcoven.co/skills/seo",
+      "title": "Get found in Google and Bing search",
+      "version": "1",
+      "summary": "Audits a site for search, plans pages from real demand and customers' words, and measures the result against a baseline.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "seo",
+          "search engine optimization",
+          "seo audit",
+          "technical seo",
+          "keyword research",
+          "rank on google",
+          "search console",
+          "organic traffic",
+          "backlinks",
+          "meta description",
+          "title tag",
+          "core web vitals",
+          "sitemap",
+          "google indexing",
+          "page not indexed",
+          "traffic drop from google",
+          "bing webmaster tools",
+          "organic search"
+        ],
+        "tr": [
+          "seo",
+          "arama motoru optimizasyonu",
+          "google'da üst sıralara çıkmak",
+          "google sıralaması",
+          "anahtar kelime araştırması",
+          "organik trafik",
+          "site denetimi",
+          "seo denetimi",
+          "teknik seo",
+          "backlink",
+          "meta açıklama",
+          "search console",
+          "seo analizi",
+          "site analizi"
+        ]
+      },
+      "folders": [
+        "seo",
+        "content",
+        "blog",
+        "website",
+        "content-plan",
+        "icerik",
+        "web-sitesi"
+      ]
+    },
+    {
+      "name": "ai-visibility",
+      "source": "https://alcoven.co/skills/ai-visibility",
+      "title": "Get named and cited in AI answers",
+      "version": "1",
+      "summary": "Measures how often AI answers name and cite a product, checks that AI crawlers can read the site, and plans fixes that hold up.",
+      "category": "Marketing and sales",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-22",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "generative engine optimization",
+          "geo strategy",
+          "geo audit",
+          "geo report",
+          "aeo",
+          "ai search visibility",
+          "ai visibility",
+          "chatgpt mentions us",
+          "why doesn't chatgpt mention us",
+          "show up in chatgpt",
+          "ai overviews",
+          "google ai mode",
+          "llm seo",
+          "llms.txt",
+          "perplexity citations",
+          "ai crawlers",
+          "gptbot",
+          "oai-searchbot",
+          "share of voice in ai answers",
+          "prompt panel"
+        ],
+        "tr": [
+          "yapay zeka görünürlüğü",
+          "chatgpt'de görünmek",
+          "yapay zeka aramalarında görünmek",
+          "chatgpt bizi önermiyor",
+          "chatgpt'de çıkmak",
+          "perplexity'de görünmek",
+          "yapay zeka arama motorları",
+          "yapay zeka botları",
+          "yapay zeka cevaplarında marka",
+          "geo stratejisi",
+          "aeo",
+          "llms.txt",
+          "yapay zekada marka görünürlüğü"
+        ]
+      },
+      "folders": [
+        "geo",
+        "aeo",
+        "ai-visibility",
+        "ai-search",
+        "llm-seo",
+        "yapay-zeka-gorunurlugu"
       ]
     },
     {
