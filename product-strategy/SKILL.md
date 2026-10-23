@@ -4,7 +4,7 @@ description: Writes, reviews and applies a product strategy, meaning the diagnos
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-strategy
-  version: "1"
+  version: "2"
 ---
 
 # Product strategy: name the challenge, choose, and say no

@@ -84,13 +84,13 @@ Rules for filling it in:
 
 ## Worked example (invented)
 
-Crumb is an invented app for independent bakeries. Maya founded it after running a bakery; Tomás sells and runs demos; Ines builds the product. Crumb launched as "online ordering for bakeries": a shop page where locals pre-order. Growth was slow, prospects compared it with delivery marketplaces and asked about delivery, and shop-only bakeries left within a few months. Customers who supplied cafés stayed and told other bakers. Maya asked for a positioning pass before rewriting the homepage.
+Crumb is an invented app for independent bakeries. Its founder started it after running a bakery; a sales lead sells and runs demos; a developer builds the product. Crumb launched as "online ordering for bakeries": a shop page where locals pre-order. Growth was slow, prospects compared it with delivery marketplaces and asked about delivery, and shop-only bakeries left within a few months. Customers who supplied cafés stayed and told other bakers. The founder asked for a positioning pass before rewriting the homepage.
 
 ```markdown
 # Positioning: Crumb
 
 - As of: 14 Oct 2026 · Version: 2 · Status: agreed
-- Decided by: Maya · Worked on with: Tomás (sales), Ines (product)
+- Decided by: the founder · Worked on with: the sales lead, the developer
 - Next review: April 2027, or sooner on a signal below
 
 ## Summary
@@ -134,7 +134,7 @@ Watched, left out: industrial bakery suites (built for factories; never in a dea
 | Value theme | Capabilities behind it | What it is worth | Proof | Grade |
 |---|---|---|---|---|
 | Every wholesale order right, without typing orders up at night | Standing orders, café self-changes, bake sheet | Kept café accounts; evenings back | Rye & Co and Kettle quotes; North Loaf win note | Strong |
-| Invoices that match what was delivered | Delivery notes and invoices from orders | Fewer disputes, paid sooner | Tomás's call notes, three bakeries | Medium |
+| Invoices that match what was delivered | Delivery notes and invoices from orders | Fewer disputes, paid sooner | The sales lead's call notes, three bakeries | Medium |
 
 Lead theme: the first. Dropped: "a beautiful shop page" (the till add-on and shop builders do it as well).
 
@@ -165,9 +165,9 @@ out of ads until the next five calls confirm it.
 
 | Line | Grade | Gap | How we close it | Who, by when |
 |---|---|---|---|---|
-| "Five or more cafés" | Weak | Based on four customers | Check accounts per customer against who stayed | Ines, 28 Oct |
-| AI assistant as an alternative | Weak | One prospect named it | Ask "what would you use otherwise?" on the next five calls | Tomás, 4 Nov |
-| Invoices theme | Medium | Call notes only | Two interviews with bakeries that invoice monthly | Maya, 11 Nov |
+| "Five or more cafés" | Weak | Based on four customers | Check accounts per customer against who stayed | The developer, 28 Oct |
+| AI assistant as an alternative | Weak | One prospect named it | Ask "what would you use otherwise?" on the next five calls | The sales lead, 4 Nov |
+| Invoices theme | Medium | Call notes only | Two interviews with bakeries that invoice monthly | The founder, 11 Nov |
 
 ## 9. Signals to watch
 

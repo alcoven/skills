@@ -99,25 +99,25 @@ In the plan, a widget line is a link on a line of its own, `[First messages to s
 
 ## A worked example (invented)
 
-Tallyroom sends physiotherapy patients their home exercises and shows the clinic who did them. Two founders: Defne (m-3d8f1a), a former physio, sells; Jonas (m-7k2p4c) builds. On 22 October 2026 they have 14 paying clinics at $60 a month each, and say "we need more customers".
+Tallyroom sends physiotherapy patients their home exercises and shows the clinic who did them. Two founders: one (m-3d8f1a), a former physio, sells; the other (m-7k2p4c) builds. On 22 October 2026 they have 14 paying clinics at $60 a month each, and say "we need more customers".
 
-**The count** (from first emails and Defne's memory, 21 Oct; three calls, 14 to 17 Oct):
+**The count** (from first emails and the memory of the founder who sells, 21 Oct; three calls, 14 to 17 Oct):
 
 | First heard | Clinics | Best fit |
 |---|---|---|
-| Defne's former colleagues | 7 | 2 |
+| Former colleagues of the founder who sells | 7 | 2 |
 | A talk at a regional physio association evening | 3 | 2 |
 | A post in a sports physio group | 2 | 1 |
-| Defne's messages in September (20 sent) | 1 | 1 |
+| Messages from the founder who sells in September (20 sent) | 1 | 1 |
 | Search | 1 | 0 |
 
 All six best-fit clinics are sports physiotherapy clinics with three to eight physios; the two clinics that cancelled were solo practitioners. Ten used paper sheets or a PDF by email before. On the calls, owners said they started looking after a patient lost the sheet, and that owners compare tools at association evenings and in one group.
 
 **Segment:** sports physiotherapy clinics with three to eight physios, where the owner still treats patients. Not now: solo practitioners and hospital departments; look again in January. Evidence: strong (the count and three calls), on 14 clinics.
 
-**Motion:** founder-led now; a self-serve trial later, once setup needs no call. Channel-model check: September's outreach took about 9 hours of Defne's time per clinic won (one clinic, from few rows). At the $50 an hour the founders set for their time, that is $450 against $720 a year from a clinic: earned back within the year. How long clinics stay is unknown (nine months of data).
+**Motion:** founder-led now; a self-serve trial later, once setup needs no call. Channel-model check: September's outreach took the founder who sells about 9 hours per clinic won (one clinic, from few rows). At the $50 an hour the founders set for their time, that is $450 against $720 a year from a clinic: earned back within the year. How long clinics stay is unknown (nine months of data).
 
-**Working back:** 11 new clinics by 31 December. At September's rate (one clinic from 20 messages) outreach alone would need about 220 messages, near 100 hours Defne doesn't have, so the goal is split across three engines.
+**Working back:** 11 new clinics by 31 December. At September's rate (one clinic from 20 messages) outreach alone would need about 220 messages, near 100 hours the founder who sells doesn't have, so the goal is split across three engines.
 
 **Bullseye:** an idea for each of the 19 channels; three kept: personal outreach (sales), talks at association evenings (speaking engagements), and introductions from customers. Later: a page on home exercise programmes (seo), a listing in a physio software directory. Not this period: ads, a launch on a launch site.
 

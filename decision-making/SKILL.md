@@ -4,7 +4,7 @@ description: Helps a team make a decision well, on evidence, and put it on recor
 license: MIT
 metadata:
   source: https://alcoven.co/skills/decision-making
-  version: "1"
+  version: "2"
 ---
 
 # Decision making: size it, decide it, put it on record

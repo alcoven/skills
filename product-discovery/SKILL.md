@@ -4,7 +4,7 @@ description: Decides, one customer problem at a time, what is worth building bef
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-discovery
-  version: "1"
+  version: "2"
 ---
 
 # Product discovery: learn what is worth building, then build it

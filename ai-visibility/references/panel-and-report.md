@@ -150,7 +150,7 @@ Engines: [list, with models]. Runs per question: [n]. Questions: [n] ([changes s
 
 ## A worked example (invented)
 
-Crumb is a pre-order and pickup app for independent bakeries. Maya runs its marketing; Theo built the site. Their rivals in buyers' words are OvenList, Bakeboard, and "an order form and a spreadsheet". Maya builds a 30-question panel from sales notes and support tickets: 12 category, 14 problem, 4 brand. Three of them:
+Crumb is a pre-order and pickup app for independent bakeries, with a marketing lead and a developer who built the site. Its rivals in buyers' words are OvenList, Bakeboard, and "an order form and a spreadsheet". The marketing lead builds a 30-question panel from sales notes and support tickets: 12 category, 14 problem, 4 brand. Three of them:
 
 | Id | Level | Question | Source |
 |---|---|---|---|
@@ -158,7 +158,7 @@ Crumb is a pre-order and pickup app for independent bakeries. Maya runs its mark
 | P2 | problem | How do I stop customers forgetting to pick up their bread orders? | Support ticket |
 | B2 | brand | Crumb vs OvenList: which is better for a two-person bakery? | Standard |
 
-Her baseline (two runs, a week apart, before changing anything) and the third week's report, abridged:
+The marketing lead's baseline (two runs, a week apart, before changing anything) and the third week's report, abridged:
 
 ```markdown
 # AI visibility, 2026-10-20
@@ -179,13 +179,13 @@ OvenList 53%, Bakeboard 31%, "an order form and a spreadsheet" 22%, Crumb 4%.
 - Two answers to B1 described a recipe app with a similar name.
 
 ## Site and crawl
-- fail: the CDN's "block AI bots" setting is on; Claude-SearchBot and PerplexityBot are refused in the logs. Theo, small.
-- fail: the pricing table is drawn by JavaScript; curl as OAI-SearchBot returns no prices. Theo, small.
-- warn: the sitemap's dates are all the build date. Theo, small.
+- fail: the CDN's "block AI bots" setting is on; Claude-SearchBot and PerplexityBot are refused in the logs. The developer, small.
+- fail: the pricing table is drawn by JavaScript; curl as OAI-SearchBot returns no prices. The developer, small.
+- warn: the sitemap's dates are all the build date. The developer, small.
 
 ## Outreach list
 1. A hospitality blog's "best bakery pre-order apps" list: cited in 19 answers to C1 to C4. A factual note to the author with what Crumb does and a trial; no payment.
-2. A thread in a bakery owners' community asking about no-show pre-orders: cited in 8 answers to P2. Maya answers as herself, saying she works at Crumb, with steps that work in any tool.
+2. A thread in a bakery owners' community asking about no-show pre-orders: cited in 8 answers to P2. The marketing lead answers in their own name, saying they work at Crumb, with steps that work in any tool.
 
 ## Gaps
 - Access, new: AI crawlers blocked at the CDN. Closes: step 1.
@@ -193,9 +193,9 @@ OvenList 53%, Bakeboard 31%, "an order form and a spreadsheet" 22%, Crumb 4%.
 - Accuracy, new: the per-order fee. Closes: step 2.
 
 ## Steps this week
-1. **Allow search and user-fetch bots at the CDN,** and confirm in the logs. Theo, small. Access gap; watch every question's citation rate.
-2. **Fix the price where engines read it:** pricing in the server HTML, and the directory listing updated. Theo and Maya, small. Watch B3.
-3. **Write "How to stop no-show bread pre-orders",** the answer in the first three sentences, with steps that work without Crumb and one line on how Crumb sends reminders. Maya, medium. Watch P2 and P3.
+1. **Allow search and user-fetch bots at the CDN,** and confirm in the logs. The developer, small. Access gap; watch every question's citation rate.
+2. **Fix the price where engines read it:** pricing in the server HTML, and the directory listing updated. The developer and the marketing lead, small. Watch B3.
+3. **Write "How to stop no-show bread pre-orders",** the answer in the first three sentences, with steps that work without Crumb and one line on how Crumb sends reminders. The marketing lead, medium. Watch P2 and P3.
 ```
 
-What Maya did not do: hide a line for AI on the pricing page, post in the community from a second account, or report Crumb's "rank". She records the day each fix went live, and reads P2 and B3 again in two and four weeks.
+What the marketing lead did not do: hide a line for AI on the pricing page, post in the community from a second account, or report Crumb's "rank". They record the day each fix went live, and read P2 and B3 again in two and four weeks.

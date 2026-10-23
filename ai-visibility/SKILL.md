@@ -4,7 +4,7 @@ description: Measures and improves how often AI answers name, recommend and cite
 license: MIT
 metadata:
   source: https://alcoven.co/skills/ai-visibility
-  version: "1"
+  version: "2"
 ---
 
 # AI visibility: be named and cited when buyers ask an AI

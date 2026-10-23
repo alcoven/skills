@@ -21,7 +21,7 @@ Design the agent's door with the same care as the screen. The agent is a capable
 - For work that spans calls, return a handle and say how long it lasts; an expired handle answers with an error that says so. [M]
 
 **Errors that teach**
-- An error says what went wrong and the exact next step, with a correct example: "You read this project, so adding a skill is for people who write to it. Ask a manager (Maya) to add it, or copy the skill into a project you write to." No bare codes, no stack traces. [T]
+- An error says what went wrong and the exact next step, with a correct example: "You read this project, so adding a skill is for people who write to it. Ask a manager ([their name]) to add it, or copy the skill into a project you write to." No bare codes, no stack traces. [T]
 - Return a failed action as a result marked as an error (MCP's `isError: true`) so the model can correct itself; protocol errors are only for malformed calls. [M]
 - Failure is never mistakable for success: an agent must not be able to report work as done when it failed. [W]
 - An error in the agent's door uses the same words as the same error on the screen. (synthesis)

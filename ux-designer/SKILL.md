@@ -4,7 +4,7 @@ description: Design the user experience of a feature before it is built, for the
 license: MIT
 metadata:
   source: https://alcoven.co/skills/ux-designer
-  version: "1"
+  version: "2"
 ---
 
 # UX designer: design it, then build it

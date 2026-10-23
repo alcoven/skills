@@ -91,7 +91,7 @@ Price the main markets in their own currency, as round local prices, and review 
 
 ## A worked example (invented)
 
-Pinewell sells software to small veterinary clinics: appointment reminders and, since spring, AI visit notes that turn a recorded consultation into the written record. Its one plan, €49 per vet a month, was copied from a competitor at launch two years ago. Aisha, the founder, asks: "Our AI bill keeps growing. Should we raise prices?"
+Pinewell sells software to small veterinary clinics: appointment reminders and, since spring, AI visit notes that turn a recorded consultation into the written record. Its one plan, €49 per vet a month, was copied from a competitor at launch two years ago. The founder asks: "Our AI bill keeps growing. Should we raise prices?"
 
 **Step 1, the lever.** The billing export: 180 paying clinics; 6 of the 60 clinics that started between January and June have cancelled. Nobody pushed back on price in the last 30 deals. The model bill divided by September's notes gives €0.06 a note. A busy two-vet clinic writes 1,800 notes a month: €108 of AI against €98 paid. Price is a lever, and the unit is wrong.
 
@@ -113,6 +113,6 @@ Extra notes: €45 for 500 (cost €30). Inventory becomes an add-on. A 14-day t
 
 **Step 6, the test.** From 3 November, new clinics see the new plans. Pass line, read on 16 January with at least 600 pricing-page visitors: revenue per pricing-page visitor at least 30% above September and October's. Guardrails: trial-to-paid no lower than 25% (31% before), and no rise in refunds.
 
-**Step 7, existing clinics.** Only if the test passes on 16 January. Aisha decides; Tomas, who leads support, must agree. The ten largest clinics get a call in late January, and every clinic a letter on 1 February. Each keeps its old price for six months (Campbell's legacy discount): monthly clinics move on 1 August and stay on monthly billing, annual ones move at their first renewal after that. The letter is in [changing-prices.md](changing-prices.md).
+**Step 7, existing clinics.** Only if the test passes on 16 January. The founder decides; the head of support must agree. The ten largest clinics get a call in late January, and every clinic a letter on 1 February. Each keeps its old price for six months (Campbell's legacy discount): monthly clinics move on 1 August and stay on monthly billing, annual ones move at their first renewal after that. The letter is in [changing-prices.md](changing-prices.md).
 
-**Step 8, the review.** The next look is set for November 2027, as a task for Aisha, or sooner if the cost of a note moves by a quarter either way.
+**Step 8, the review.** The next look is set for November 2027, as a task for the founder, or sooner if the cost of a note moves by a quarter either way.

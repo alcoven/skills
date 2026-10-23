@@ -93,11 +93,11 @@ Decisions: [a changed focus, target or test, and who decided].
 
 ## A worked example (invented)
 
-Crumb lets cafés order next-morning bread and pastries from local bakeries. Maya leads growth, Deniz is the engineer, Sam does marketing. Maya asks: "We want twice the orders by February. Should we run ads to cafés?"
+Crumb lets cafés order next-morning bread and pastries from local bakeries. The team is a growth lead, an engineer and a marketer. The growth lead asks: "We want twice the orders by February. Should we run ads to cafés?"
 
-**Step 1, must-have.** No survey exists, so the AI drafts one and Maya sends it to the 74 customers who ordered at least twice in the past two weeks. 58 answer; 6 say they no longer use Crumb and are left out, as agreed before counting. 18 of 52 are very disappointed: 35%, under Ellis's line. Split by persona: cafés with a daily order, 13 of 20; home bakers ordering for events, 5 of 32. Cohort retention says the same: café cohorts flatten from week 6, home-baker cohorts keep falling.
+**Step 1, must-have.** No survey exists, so the AI drafts one and the growth lead sends it to the 74 customers who ordered at least twice in the past two weeks. 58 answer; 6 say they no longer use Crumb and are left out, as agreed before counting. 18 of 52 are very disappointed: 35%, under Ellis's line. Split by persona: cafés with a daily order, 13 of 20; home bakers ordering for events, 5 of 32. Cohort retention says the same: café cohorts flatten from week 6, home-baker cohorts keep falling.
 
-**Speaking up, once.** "Before ads: cafés are well above the line and home bakers far below it, so ads should go to cafés only. But of the cafés that signed up in September, 9 of 31 set up a standing order within 14 days. Ads would bring cafés into that leak. Four weeks on activation first?" Maya agrees, and asks Sam to prepare the café ads for December.
+**Speaking up, once.** "Before ads: cafés are well above the line and home bakers far below it, so ads should go to cafés only. But of the cafés that signed up in September, 9 of 31 set up a standing order within 14 days. Ads would bring cafés into that leak. Four weeks on activation first?" The growth lead agrees, and asks the marketer to prepare the café ads for December.
 
 **Step 2, the aha moment.** Of August's cafés, those with a standing weekly order in their first 14 days were still ordering at week 8 far more often: 11 of 13, against 4 of 15 without one. Written as a hypothesis: "sets up a standing order within 14 days".
 
@@ -123,4 +123,4 @@ date,test,event,stage,metric,pass_line,ice,owner,result,learning,link
 2026-11-28,T7 prefilled standing order,ended,activation,standing order within 14 days,,,m-4f2k9a,win,17 of 33 new cafés set one (52%); cafés take a filled-in suggestion more readily than a blank form,growth/ideas/t7.md
 ```
 
-The note on the north star's widget, on 3 November, says "T7 live: standing order suggested after the second order", so the rise that follows has its reason beside it. The meeting note on 1 December records the honest limit: a before-and-after reading is weaker than a split test; November had no holiday and nothing else shipped for cafés, so the team keeps T7 and plans a split test of the discount idea next. Maya's café ads start in December, with the activation rate as their guardrail.
+The note on the north star's widget, on 3 November, says "T7 live: standing order suggested after the second order", so the rise that follows has its reason beside it. The meeting note on 1 December records the honest limit: a before-and-after reading is weaker than a split test; November had no holiday and nothing else shipped for cafés, so the team keeps T7 and plans a split test of the discount idea next. The growth lead's café ads start in December, with the activation rate as their guardrail.

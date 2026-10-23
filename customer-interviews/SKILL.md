@@ -4,7 +4,7 @@ description: Plans, checks and makes sense of customer interviews, so a team lea
 license: MIT
 metadata:
   source: https://alcoven.co/skills/customer-interviews
-  version: "1"
+  version: "2"
 ---
 
 # Customer interviews: ask what they did, last time

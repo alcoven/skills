@@ -4,7 +4,7 @@ description: Writes a go-to-market plan, above all for a team winning its first 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/gtm-plan
-  version: "1"
+  version: "2"
 ---
 
 # Go-to-market plan: who buys first, and how the team reaches them

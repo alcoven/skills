@@ -4,7 +4,7 @@ description: Make YouTube videos and Shorts people watch, picked from evidence. 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/youtube-expert
-  version: "1"
+  version: "2"
 ---
 
 # YouTube expert: evidence first, then the video

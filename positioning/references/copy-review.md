@@ -159,5 +159,5 @@ Suggestions only; nothing changes without your yes.
 
 ## Gaps in the canvas this review found
 
-- The team wants to say "paid sooner". The invoices theme has medium evidence; two interviews (section 8, Maya, 11 Nov) would support it.
+- The team wants to say "paid sooner". The invoices theme has medium evidence; two interviews (section 8, the founder, 11 Nov) would support it.
 ```

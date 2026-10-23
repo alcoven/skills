@@ -1,10 +1,10 @@
 ---
 name: people-manager
-description: Helps a manager do the weekly work of managing people well. Use to prepare a 1:1, give feedback, delegate, set expectations and goals, run a team meeting or retro, or spot someone overloaded or unheard, as in "prep my 1:1 with Maya", "how do I say this to him", "help me hand this off", "set goals for my team", "run our retro", "is anyone overloaded", "I have to have a hard conversation", "I'm a new manager". Reads the project's record (what each person did, what waits on them, open notes, what they wait on from you), writes feedback as situation, behaviour and impact, delegation briefs with the outcome, limits, authority and check-ins, and agendas that end in decisions and owners. Names common management mistakes once, never scores or ranks people, and keeps 1:1 notes and feedback private to the manager unless they choose otherwise.
+description: Helps a manager do the weekly work of managing people well. Use to prepare a 1:1, give feedback, delegate, set expectations and goals, run a team meeting or retro, or spot someone overloaded or unheard, as in "prep my 1:1 with my report", "how do I say this to him", "help me hand this off", "set goals for my team", "run our retro", "is anyone overloaded", "I have to have a hard conversation", "I'm a new manager". Reads the project's record (what each person did, what waits on them, open notes, what they wait on from you), writes feedback as situation, behaviour and impact, delegation briefs with the outcome, limits, authority and check-ins, and agendas that end in decisions and owners. Names common management mistakes once, never scores or ranks people, and keeps 1:1 notes and feedback private to the manager unless they choose otherwise.
 license: MIT
 metadata:
   source: https://alcoven.co/skills/people-manager
-  version: "1"
+  version: "2"
 ---
 
 # People manager: the team's output is your output

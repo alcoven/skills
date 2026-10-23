@@ -88,9 +88,9 @@ Your options:
 - Cancel at any time in Settings, or reply to this email.
 
 If the new price is hard for the clinic right now, reply and tell us.
-Tomas reads every reply.
+Our head of support reads every reply.
 
-Aisha
+[the founder's name]
 Founder, Pinewell
 ```
 

@@ -61,7 +61,7 @@ Dated commitments: [only real ones, each with the reason for the date and the di
 
 ## A worked example (invented)
 
-Crumb is an app independent bakeries use to take pre-orders from their regulars. It has nine people: Maya (product), Tomás (design), three engineers including Ines, Dev (sales), Lena (customer success), and the two founders. All names and numbers here are invented.
+Crumb is an app independent bakeries use to take pre-orders from their regulars. It has nine people: a product manager, a designer, three engineers, a salesperson, a customer success lead, and the two founders. All names and numbers here are invented.
 
 ### The first draft, reviewed
 
@@ -82,7 +82,7 @@ The review, in short:
 # Crumb strategy, Q4 2026
 
 - Status: agreed 24 Oct 2026
-- Owner: Maya
+- Owner: the product manager
 - Agreed by: the whole team, 23 to 24 Oct
 - Next review: 9 Jan 2027
 
@@ -106,10 +106,10 @@ Considered and set aside:
 
 ## Coherent actions
 
-1. Onboarding ends at the first ten regulars, with a counter card and a message the owner sends to their list. Owner Tomás with Lena.
-2. The product trio works only on the weekly repeat order this quarter (discovery/regulars-reorder.md). Owner Maya.
-3. Sales goes to independent bakeries that already have regulars, and pauses outreach to chains. Owner Dev.
-4. Lena calls every new bakery in its third week to check how many regulars order. Owner Lena.
+1. Onboarding ends at the first ten regulars, with a counter card and a message the owner sends to their list. Owner: the designer, with the customer success lead.
+2. The product trio works only on the weekly repeat order this quarter (discovery/regulars-reorder.md). Owner: the product manager.
+3. Sales goes to independent bakeries that already have regulars, and pauses outreach to chains. Owner: the salesperson.
+4. The customer success lead calls every new bakery in its third week to check how many regulars order. Owner: the customer success lead.
 
 ## What we will not do
 
@@ -142,26 +142,26 @@ If Crumb used OKRs, the first outcome would read: Objective, "Bakeries' regulars
 
 ### Agreeing it
 
-Maya hands the strategy out for agreement. Dev's part is the not-do list and action 3; Lena's is action 4 and the second outcome; the trio's is the first outcome and the roadmap's Now. Before the review date, she asks Dev and Ines separately to say the strategy in two sentences. Both mention regulars ordering every week; Dev forgets the guardrail, so the next version moves it next to the target.
+The product manager hands the strategy out for agreement. The salesperson's part is the not-do list and action 3; the customer success lead's is action 4 and the second outcome; the trio's is the first outcome and the roadmap's Now. Before the review date, the product manager asks the salesperson and one of the engineers separately to say the strategy in two sentences. Both mention regulars ordering every week; the salesperson forgets the guardrail, so the next version moves it next to the target.
 
 ### Checking proposed work
 
 Three proposals arrive in the following week:
 
 ```markdown
-**Multi-store reporting for Hearth Bakeries** (Dev, sales notes, 18 Oct)
+**Multi-store reporting for Hearth Bakeries** (the salesperson, sales notes, 18 Oct)
 - Serves: none of the outcomes.
 - On the not-do list: yes ("Multi-store reporting for chains").
 - Verdict: doesn't fit. Reply to Hearth with the date we look again.
 
-**Loyalty points for Rise & Co** (Dev, 14 Oct)
+**Loyalty points for Rise & Co** (the salesperson, 14 Oct)
 - Serves: outcome 1.
 - Fits the guiding policy: yes, if it gets regulars ordering weekly.
 - Evidence: one customer's request, low on the confidence meter.
 - Appetite: two weeks at most.
 - Verdict: fits, to discovery (discovery/regulars-reorder.md), beside other ideas for the same problem.
 
-**A redesign of the bakery dashboard** (Tomás, 21 Oct)
+**A redesign of the bakery dashboard** (the designer, 21 Oct)
 - Serves: none directly; outcome 2 only if it shortens the way to the first ten regulars.
 - Pushes out: onboarding work for outcome 2.
 - Verdict: doesn't fit this quarter as proposed. Consider reshaping it around the first ten regulars, or put it in Later.

@@ -120,7 +120,7 @@ When others must agree, hand it out for agreement. For decisions with more at st
 
 ## Worked example (invented)
 
-Crumb is an app showing what is fresh at neighbourhood bakeries. Maya runs product (m-7q2d4k), Tomás builds (m-3h8r1c), Ines looks after the bakeries (m-5w9z6p). The idea: "Pre-order for tomorrow", where people order in the evening, collect in the morning, and Crumb takes a fee on each order. Tomás puts the full build (payments, a bakery screen, stock holds) at ten weeks.
+Crumb is an app showing what is fresh at neighbourhood bakeries. Its team: a product lead (m-7q2d4k), a developer who builds (m-3h8r1c), and an account manager who looks after the bakeries (m-5w9z6p). The idea: "Pre-order for tomorrow", where people order in the evening, collect in the morning, and Crumb takes a fee on each order. The developer puts the full build (payments, a bakery screen, stock holds) at ten weeks.
 
 **Beliefs, mapped:**
 
@@ -129,12 +129,12 @@ Crumb is an app showing what is fresh at neighbourhood bakeries. Maya runs produ
 | B1 | People near a partner bakery will pre-order for the next morning | Value, desirable | Plan fails without it | None |
 | B2 | Bakeries will set stock aside by 7 a.m. | Feasible | Plan fails without it | Three owners said yes (rung 1) |
 | B3 | Bakeries accept a fee on each order | Viable | Plan fails without it | None |
-| B4 | Payments take four weeks to build | Feasible | Delays it | Tomás has built it before (rung 2) |
+| B4 | Payments take four weeks to build | Feasible | Delays it | The developer has built it before (rung 2) |
 | B5 | People hear about it at the bakery counter | Growth | Slows it | None |
 
 B1 goes first: the plan fails without it, nothing supports it, and B3 only matters if B1 holds.
 
-**Pass line.** Maya's model says the feature pays back its ten weeks within a year only if at least 5% of people who see it pre-order. About 400 people a week open Crumb near Linden Bakery (Crumb's own numbers), far too few for an A/B test, so the test has one arm and a pass line.
+**Pass line.** The product lead's model says the feature pays back its ten weeks within a year only if at least 5% of people who see it pre-order. About 400 people a week open Crumb near Linden Bakery (Crumb's own numbers), far too few for an A/B test, so the test has one arm and a pass line.
 
 **The test card,** written 28 Sep 2026:
 
@@ -151,19 +151,19 @@ People who open Crumb near a partner bakery will pre-order for the next morning.
 Kind: value. Why first: the plan fails without it; no evidence yet.
 
 ## To verify that, we will
-Show a "Pre-order for tomorrow" button to people who open Crumb within 1 km of Linden Bakery. It opens a short form. Ines phones the orders to Linden at 8 p.m.; Crumb confirms by text; people pay at the counter.
+Show a "Pre-order for tomorrow" button to people who open Crumb within 1 km of Linden Bakery. It opens a short form. The account manager phones the orders to Linden at 8 p.m.; Crumb confirms by text; people pay at the counter.
 
 ## And measure
 Completed pre-orders as a share of people who saw the button, counted once each. Team accounts and the team's friends left out.
 
 ## We are right if
-At least 5% of people near Linden who see the button pre-order by 12 Oct. X comes from: Maya's payback model.
+At least 5% of people near Linden who see the button pre-order by 12 Oct. X comes from: the product lead's payback model.
 We stop if: below 2%.
 In between: one more round with one change; no build.
 Stopping rule: 12 Oct. Read on 13 Oct.
 
 ## Cost
-Two days of Tomás's time; an hour of Ines's each evening.
+Two days of the developer's time; an hour of the account manager's each evening.
 ```
 
 **What came back.** 817 people saw the button. Left out: 9 team accounts, and 4 of the team's friends, who placed 4 of the 29 orders. That leaves 25 orders from 804 people: 3.1%. The rough 95% range (rate plus or minus 1.96 standard errors) is 1.9% to 4.3%, so even its top is under the pass line. One evening brought 11 orders, which looked like a counting error; it was an office ordering a team breakfast, so it stays. 17 of the 25 orders were for four items or more, most on weekday mornings, and 9 came from three offices. Linden missed 2 orders and asked for an 8 p.m. cutoff.
@@ -197,6 +197,6 @@ date,id,stage,belief,test,pass_line,result,rate,evidence,decision,owner,card
 2026-10-13,E-07,result,People near a partner bakery will pre-order for the next morning,concierge,"At least 5% of people near Linden who see the button pre-order by 12 Oct; stop below 2%",grey,3.1% (25 of 804),do,pivot: customer segment,m-7q2d4k,experiments/2026-09-28-pre-order-linden.md
 ```
 
-**The next test card (E-08)** reaches a higher rung: "At least 20% of the 30 office managers within 1 km of Linden whom Ines contacts will place a paid group pre-order within three weeks." X comes from Maya's model: six offices ordering weekly would pay for a group-order version. Stop below 2 offices.
+**The next test card (E-08)** reaches a higher rung: "At least 20% of the 30 office managers within 1 km of Linden whom the account manager contacts will place a paid group pre-order within three weeks." X comes from the product lead's model: six offices ordering weekly would pay for a group-order version. Stop below 2 offices.
 
-**The decision on record,** handed out for agreement to Tomás (his ten weeks move) and Ines (she runs E-08): no build of single pre-orders; test group orders for offices next; reopen single pre-orders if E-08 fails and a second bakery's area shows more than 5% in the same test.
+**The decision on record,** handed out for agreement to the developer (their ten weeks move) and the account manager (they run E-08): no build of single pre-orders; test group orders for offices next; reopen single pre-orders if E-08 fails and a second bakery's area shows more than 5% in the same test.

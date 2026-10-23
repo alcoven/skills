@@ -4,7 +4,7 @@ description: Helps a team be found in classic search (Google, Bing, and the sear
 license: MIT
 metadata:
   source: https://alcoven.co/skills/seo
-  version: "1"
+  version: "2"
 ---
 
 # SEO: be found by the people already searching

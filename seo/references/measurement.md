@@ -74,7 +74,7 @@ AI answers above the results go with fewer clicks below them. Pew Research Cente
 
 ## Worked example (invented)
 
-Studio Wren sells booking software to small yoga and pilates studios. Maya runs marketing; Tomás builds the site: about 130 pages, with 70 blog posts and 40 "studio software in [city]" pages from one template. On 27 July 2026 Maya asks: "Our Google traffic has dropped since June. Why don't we rank?"
+Studio Wren sells booking software to small yoga and pilates studios. It has a marketing lead, and a developer who builds the site: about 130 pages, with 70 blog posts and 40 "studio software in [city]" pages from one template. On 27 July 2026 the marketing lead asks: "Our Google traffic has dropped since June. Why don't we rank?"
 
 **The audit** (`seo/audits/2026-07-27.md`), the fix list:
 
@@ -86,9 +86,9 @@ Studio Wren sells booking software to small yoga and pilates studios. Maya runs 
 | 4 | www redirects with a 302 | The redirect commands | All | Low | S | Official |
 | 5 | FAQ markup | No longer shown; harmless | 12 | Low | None | Official |
 
-Tasks: Tomás removes the tag and fixes the redirect by 29 July, with a release check that fetches a post's head; prices by 10 August. The AI said once that 40 near-identical pages read as doorways and suggested keeping six cities with customers, each with its studio's story; Maya agrees to do it after the blog fix, so the two changes do not overlap.
+Tasks: the developer removes the tag and fixes the redirect by 29 July, with a release check that fetches a post's head; prices by 10 August. The AI said once that 40 near-identical pages read as doorways and suggested keeping six cities with customers, each with its studio's story; the marketing lead agrees to do it after the blog fix, so the two changes do not overlap.
 
-**The plan:** support tickets keep mentioning double bookings; autocomplete offers "how to stop double booking yoga classes", whose results are guides and forum threads, so the page is a guide with screenshots, drafted from Maya's interview notes. "BigStudio Suite alternatives" (an invented rival) shows comparison pages, so that brief is a fair comparison: a table, dated prices with links, and who should choose BigStudio (studios with several locations).
+**The plan:** support tickets keep mentioning double bookings; autocomplete offers "how to stop double booking yoga classes", whose results are guides and forum threads, so the page is a guide with screenshots, drafted from the marketing lead's interview notes. "BigStudio Suite alternatives" (an invented rival) shows comparison pages, so that brief is a fair comparison: a table, dated prices with links, and who should choose BigStudio (studios with several locations).
 
 **The measure:** blog clicks were 380 to 420 a week from 13 April to 10 May, and about 110 a week by mid-July. The fix shipped on 29 July, with a note on the widget that day and an annotation in Search Console. The rule, written on 27 July: "By 19 August, blog clicks within a fifth of the April and May weeks and at least 60 of 64 posts indexed: close it; otherwise inspect the posts still excluded." On 19 August: 330 and 350 clicks in the weeks of 3 and 10 August, 59 posts indexed, and no Google update in either window. The reading: the drop came from the tag and mostly returned once the posts were indexed; season cannot be ruled out, since the blog has no year of history. Of the five posts still out, one duplicates another and is merged. The city pages go next, read in November against the six kept pages' own baseline.
 

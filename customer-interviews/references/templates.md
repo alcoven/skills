@@ -103,15 +103,15 @@ Write it the same day. One note per interview.
 
 ## Worked example (invented)
 
-Crumb makes an ordering app for small bakeries. Maya, its founder, wants to build automatic order reminders and asks the AI: "Write me some questions to check bakeries want reminders."
+Crumb makes an ordering app for small bakeries. Its founder wants to build automatic order reminders and asks the AI: "Write me some questions to check bakeries want reminders."
 
-**What the AI does first.** It asks for the decision ("build reminders this quarter, yes or no, by 1 November"), reads the project's support notes, and finds two tickets about missed orders. It rewrites the research questions: how do orders get missed today, what does a missed order cost, and what have bakeries tried. It says once: "Asking whether they want reminders will get polite yeses. Asking about the last missed order will tell you whether it is worth building." Maya agrees.
+**What the AI does first.** It asks for the decision ("build reminders this quarter, yes or no, by 1 November"), reads the project's support notes, and finds two tickets about missed orders. It rewrites the research questions: how do orders get missed today, what does a missed order cost, and what have bakeries tried. It says once: "Asking whether they want reminders will get polite yeses. Asking about the last missed order will tell you whether it is worth building." The founder agrees.
 
 **Who.** Four owners using Crumb, two owners who cancelled in their second month, one owner who chose a rival app. Round one: seven.
 
 **From the guide.** "Tell me about the last order that went wrong. When was it?" "What did you do about it?" "What do you use to keep track of orders now?" Closing commitment for current customers: "Could we look at your order list together next week?"
 
-**A review flag.** In interview P2, Tom (Maya's co-founder) asked: "Wouldn't reminders have saved you there?" The AI flags it as leading and hypothetical, notes that P2's "yes, definitely" is fluff, and suggests: "What would have needed to happen for that order not to slip?"
+**A review flag.** In interview P2, the co-founder asked: "Wouldn't reminders have saved you there?" The AI flags it as leading and hypothetical, notes that P2's "yes, definitely" is fluff, and suggests: "What would have needed to happen for that order not to slip?"
 
 **From the synthesis.**
 
@@ -130,7 +130,7 @@ Crumb makes an ordering app for small bakeries. Maya, its founder, wants to buil
 - How many bakeries take orders by chat; whether owners would pay for a fix.
 
 ## Next step
-- Consider three interviews with owners who take most orders by chat, and a look at whether getting chat orders into Crumb is the better thing to build. Maya decides by 1 November.
+- Consider three interviews with owners who take most orders by chat, and a look at whether getting chat orders into Crumb is the better thing to build. The founder decides by 1 November.
 ```
 
 The interviews changed the question: the problem is real, and reminders, as first imagined, would not fix most of it.

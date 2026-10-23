@@ -4,7 +4,7 @@ description: Start here when a request is broad, vague or a goal more than a tas
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-coach
-  version: "3"
+  version: "4"
 ---
 
 # Product coach: the right thing first, then done well

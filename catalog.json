@@ -6,7 +6,7 @@
       "name": "product-coach",
       "source": "https://alcoven.co/skills/product-coach",
       "title": "Turn a vague goal into the next right step",
-      "version": "3",
+      "version": "4",
       "summary": "Turns a vague goal into a plain-words diagnosis of where it leaks, checks proposed work before a team commits time, then picks the method.",
       "category": "Product and planning",
       "versions": [
@@ -24,6 +24,11 @@
           "version": "3",
           "date": "2026-10-22",
           "changes": "Starts a vague goal (\"how can we make more money\", \"sales are bad\") with a plain-words diagnosis of where it leaks, and hands over to the new gtm-plan, retention and pricing skills."
+        },
+        {
+          "version": "4",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -73,7 +78,7 @@
       "name": "product-strategy",
       "source": "https://alcoven.co/skills/product-strategy",
       "title": "Choose the team's focus and what to drop",
-      "version": "1",
+      "version": "2",
       "summary": "Writes or reviews a product strategy, sets a few measured outcomes and a roadmap, and checks new work against it.",
       "category": "Product and planning",
       "versions": [
@@ -81,6 +86,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -130,7 +140,7 @@
       "name": "product-discovery",
       "source": "https://alcoven.co/skills/product-discovery",
       "title": "Decide what to build before you build it",
-      "version": "1",
+      "version": "2",
       "summary": "Finds the problem behind a request, compares several ideas and tests the riskiest assumptions before anything is built.",
       "category": "Product and planning",
       "versions": [
@@ -138,6 +148,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -188,7 +203,7 @@
       "name": "lean-experiments",
       "source": "https://alcoven.co/skills/lean-experiments",
       "title": "Test the riskiest assumption before building",
-      "version": "1",
+      "version": "2",
       "summary": "Finds a plan's riskiest assumption, tests it with the smallest test and a pass line set first, then decides.",
       "category": "Product and planning",
       "versions": [
@@ -196,6 +211,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -307,7 +327,7 @@
       "name": "decision-making",
       "source": "https://alcoven.co/skills/decision-making",
       "title": "Make a decision and put it on record",
-      "version": "1",
+      "version": "2",
       "summary": "Sizes a decision, scales the process to it, names one decider, and writes the record for the team to agree to.",
       "category": "Product and planning",
       "versions": [
@@ -315,6 +335,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -362,7 +387,7 @@
       "name": "ux-designer",
       "source": "https://alcoven.co/skills/ux-designer",
       "title": "Design a feature's UX before you build it",
-      "version": "1",
+      "version": "2",
       "summary": "Designs a feature's user experience before it is built, and writes it as a spec with acceptance checks.",
       "category": "Design and research",
       "versions": [
@@ -370,6 +395,11 @@
           "version": "1",
           "date": "2026-10-20",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -414,7 +444,7 @@
       "name": "customer-interviews",
       "source": "https://alcoven.co/skills/customer-interviews",
       "title": "Customer interviews: ask what they did",
-      "version": "1",
+      "version": "2",
       "summary": "Picks who to talk to, writes the interview guide, checks notes for bias and turns interviews into evidence.",
       "category": "Design and research",
       "versions": [
@@ -422,6 +452,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -470,7 +505,7 @@
       "name": "market-watch",
       "source": "https://alcoven.co/skills/market-watch",
       "title": "Keep up with your market each week",
-      "version": "1",
+      "version": "2",
       "summary": "Reads customers' words, competitors and trends each week, and writes a dated brief on what each change means for the team.",
       "category": "Design and research",
       "versions": [
@@ -478,6 +513,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -532,7 +572,7 @@
       "name": "positioning",
       "source": "https://alcoven.co/skills/positioning",
       "title": "Positioning: who it's for and why you win",
-      "version": "1",
+      "version": "2",
       "summary": "Works out positioning from customer evidence, writes a one-page canvas, and checks homepage, pitch and ads against it.",
       "category": "Marketing and sales",
       "versions": [
@@ -540,6 +580,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -589,7 +634,7 @@
       "name": "gtm-plan",
       "source": "https://alcoven.co/skills/gtm-plan",
       "title": "Win the first customers: a go-to-market plan",
-      "version": "1",
+      "version": "2",
       "summary": "Writes a go-to-market plan for winning the first customers: who to sell to first, a few channels to test cheaply, targets with dates, and a record of what each brings.",
       "category": "Marketing and sales",
       "versions": [
@@ -597,6 +642,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -704,7 +754,7 @@
       "name": "growth",
       "source": "https://alcoven.co/skills/growth",
       "title": "Grow a product people already want",
-      "version": "2",
+      "version": "3",
       "summary": "Checks first that customers would miss the product, then sets a north star and a growth model, and runs a weekly test cycle the team learns from.",
       "category": "Marketing and sales",
       "versions": [
@@ -717,6 +767,11 @@
           "version": "2",
           "date": "2026-10-22",
           "changes": "Speaks in plain words, asks which customer when the payer and the user differ, and works with few customers or no numbers yet."
+        },
+        {
+          "version": "3",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -771,7 +826,7 @@
       "name": "retention",
       "source": "https://alcoven.co/skills/retention",
       "title": "Keep paying customers from leaving",
-      "version": "1",
+      "version": "2",
       "summary": "Finds why paying customers leave, from billing records and what the leavers say, and picks the one fix likely to keep the most of them.",
       "category": "Marketing and sales",
       "versions": [
@@ -779,6 +834,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -829,7 +889,7 @@
       "name": "pricing",
       "source": "https://alcoven.co/skills/pricing",
       "title": "Set, test and change prices and plans",
-      "version": "1",
+      "version": "2",
       "summary": "Sets prices and plans from evidence of what customers pay, tests changes on new customers first and plans price rises.",
       "category": "Marketing and sales",
       "versions": [
@@ -837,6 +897,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -886,7 +951,7 @@
       "name": "seo",
       "source": "https://alcoven.co/skills/seo",
       "title": "Get found in Google and Bing search",
-      "version": "1",
+      "version": "2",
       "summary": "Audits a site for search, plans pages from real demand and customers' words, and measures the result against a baseline.",
       "category": "Marketing and sales",
       "versions": [
@@ -894,6 +959,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -948,7 +1018,7 @@
       "name": "ai-visibility",
       "source": "https://alcoven.co/skills/ai-visibility",
       "title": "Get named and cited in AI answers",
-      "version": "1",
+      "version": "2",
       "summary": "Measures how often AI answers name and cite a product, checks that AI crawlers can read the site, and plans fixes that hold up.",
       "category": "Marketing and sales",
       "versions": [
@@ -956,6 +1026,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -1010,7 +1085,7 @@
       "name": "youtube-expert",
       "source": "https://alcoven.co/skills/youtube-expert",
       "title": "Make YouTube videos people watch",
-      "version": "1",
+      "version": "2",
       "summary": "Picks video topics from measured evidence, shapes titles, thumbnails and openings, and reads the numbers afterwards.",
       "category": "Marketing and sales",
       "versions": [
@@ -1018,6 +1093,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "Worked examples name people by their role (the founder, the developer), with no invented names."
         }
       ],
       "words": {
@@ -1064,7 +1144,7 @@
       "name": "people-manager",
       "source": "https://alcoven.co/skills/people-manager",
       "title": "Manage people well, week by week",
-      "version": "1",
+      "version": "2",
       "summary": "Prepares 1:1s, feedback and delegation briefs, plans meetings and retros, and spots overload without ranking anyone.",
       "category": "Legal and people",
       "versions": [
@@ -1072,6 +1152,11 @@
           "version": "1",
           "date": "2026-10-22",
           "changes": "First version."
+        },
+        {
+          "version": "2",
+          "date": "2026-10-23",
+          "changes": "The worked example and the description name people by their role (the manager, the new designer), with no invented names."
         }
       ],
       "words": {

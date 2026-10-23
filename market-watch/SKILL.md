@@ -4,7 +4,7 @@ description: Keeps a team current on its market without drowning in it. A weekly
 license: MIT
 metadata:
   source: https://alcoven.co/skills/market-watch
-  version: "1"
+  version: "2"
 ---
 
 # Market watch: what changed, and what it means for us

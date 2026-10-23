@@ -81,23 +81,23 @@ Check the rules for each market the team sells in with a lawyer before changing 
 
 ## A worked example (invented)
 
-Chairside sends appointment reminders for independent dental practices at £79 a month. Priya, the founder, sells; Tomás builds; Ines does support three days a week. Priya asks: "We lose practices every month. How do we keep them?" Nobody has a retention number.
+Chairside sends appointment reminders for independent dental practices at £79 a month. The founder sells; a developer builds; a support lead works three days a week. The founder asks: "We lose practices every month. How do we keep them?" Nobody has a retention number.
 
 **The hour.** The billing export since October 2025 gives the month table: 203 practices paying on 1 September, 183 still paying at its end, 17 cancelled, 3 lost to failed cards. "Nine in ten a month" sounds fine. The cohort table does not: of the 86 practices that started from March to June, 52 still paid in month three. Of September's 20 leavers, 13 had paid three months or fewer.
 
-**Who left, and why.** 38 practices left in August and September. Ines codes each from billing, usage, tickets and 21 exit-survey answers. 13 answers said "too expensive", but 9 of those 13 practices never connected their diary, so reminders never went out. The count: `no-first-value` 14, `failed-payment` 9, `need-ended` 4, `switched` 4, `champion-left` 3, `price-value` 2, `unknown` 2.
+**Who left, and why.** 38 practices left in August and September. The support lead codes each from billing, usage, tickets and 21 exit-survey answers. 13 answers said "too expensive", but 9 of those 13 practices never connected their diary, so reminders never went out. The count: `no-first-value` 14, `failed-payment` 9, `need-ended` 4, `switched` 4, `champion-left` 3, `price-value` 2, `unknown` 2.
 
 **Six calls.** Two of three leavers describe the same stall: connecting the diary needed the practice software's admin login, which the receptionist doing setup did not have, and nobody came back to it. All three stayers describe the first Monday the reminders went out and patients confirmed.
 
 **The moment.** Of the 86 practices starting March to June, 49 connected the diary within 14 days, and 44 of them still paid in month three. Of the 37 that did not, 8 did. Written as a hypothesis: "connects the diary within 14 days".
 
-**Speaking up, once.** Priya wants 30% off for anyone who clicks cancel. The AI points out that 2 of 38 left over price once usage was checked, and that a discount would not reach the 14 who never started; it suggests offering the next ten such cancellers a setup call. Priya agrees to drop the discount.
+**Speaking up, once.** The founder wants 30% off for anyone who clicks cancel. The AI points out that 2 of 38 left over price once usage was checked, and that a discount would not reach the 14 who never started; it suggests offering the next ten such cancellers a setup call. The founder agrees to drop the discount.
 
-**The fix.** At sign-up, Chairside asks who holds the admin login and books a 20-minute setup call with that person; on day 5, Ines calls any practice not yet connected. Beside it, Tomás turns on retries over two weeks, card updates, and emails before expiry and after a failure, with access kept during retries. The cancel page gets one offer (a pause, for practices closing for a refit) beside a cancel button that works in one step.
+**The fix.** At sign-up, Chairside asks who holds the admin login and books a 20-minute setup call with that person; on day 5, the support lead calls any practice not yet connected. Beside it, the developer turns on retries over two weeks, card updates, and emails before expiry and after a failure, with access kept during retries. The cancel page gets one offer (a pause, for practices closing for a refit) beside a cancel button that works in one step.
 
-**Pass lines, set first.** Diary connected within 14 days: from 49 of 86 (57%) to at least three in four of November's new practices, read 15 December 2026 (with about two dozen starting a month, one month can only show a large change); how many of them still pay in month three, read 1 March 2027. Failed charges paid within 14 days: from 6 of 15 (August and September) to at least two thirds in November, read 1 December. Guardrail: Ines's setup time stays under eight hours a week.
+**Pass lines, set first.** Diary connected within 14 days: from 49 of 86 (57%) to at least three in four of November's new practices, read 15 December 2026 (with about two dozen starting a month, one month can only show a large change); how many of them still pay in month three, read 1 March 2027. Failed charges paid within 14 days: from 6 of 15 (August and September) to at least two thirds in November, read 1 December. Guardrail: the support lead's setup time stays under eight hours a week.
 
-**The habit.** The first Monday of each month, Priya and Ines spend thirty minutes on the month's leaver rows and the two tables; "Customers kept, by month" sits on the project's home. The honest limit, written in the review: 38 leavers were enough to choose the fix, and too few to measure a small change; a before-and-after reading is weaker than a split test, so the March reading decides whether to keep it.
+**The habit.** The first Monday of each month, the founder and the support lead spend thirty minutes on the month's leaver rows and the two tables; "Customers kept, by month" sits on the project's home. The honest limit, written in the review: 38 leavers were enough to choose the fix, and too few to measure a small change; a before-and-after reading is weaker than a split test, so the March reading decides whether to keep it.
 
 ## Sources
 

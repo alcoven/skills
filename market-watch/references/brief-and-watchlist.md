@@ -102,7 +102,7 @@ Briefs read: [addresses]. Deals reviewed: [won n, lost n], if any.
 
 ## Worked example (invented)
 
-Crumb makes an ordering app for small bakeries. Maya looks after positioning and pricing; Tom looks after the product and its suppliers. Their watchlist serves four questions: bakeries' order taking, their alternatives (two rival apps, Doughline and Fernbake, plus paper and spreadsheets), what Crumb depends on (a payments provider and an AI model that reads orders from messages), and food-business rules. Maya asks: "What changed this week?"
+Crumb makes an ordering app for small bakeries. Its marketing lead looks after positioning and pricing; its product lead looks after the product and its suppliers. Their watchlist serves four questions: bakeries' order taking, their alternatives (two rival apps, Doughline and Fernbake, plus paper and spreadsheets), what Crumb depends on (a payments provider and an AI model that reads orders from messages), and food-business rules. The marketing lead asks: "What changed this week?"
 
 ```markdown
 # Market brief, 2026-10-19
@@ -118,13 +118,13 @@ Window: 2026-10-12 to 2026-10-19. Time spent: one hour. Sources checked: 11 of 1
 ### Doughline launched a free plan for small bakeries
 - What happened: a free plan for up to 50 orders a month, launched 14 Oct (Doughline's pricing page and changelog, read 19 Oct).
 - Why it matters to us: it changes the alternatives for our smallest customers, who pay our lowest plan.
-- We will: Act: propose that Maya reviews the lowest plan against it; ask this week's two new sign-ups whether they compared.
+- We will: Act: propose that the marketing lead reviews the lowest plan against it; ask this week's two new sign-ups whether they compared.
 - Confidence: confirmed at the primary source, high.
 
 ### The AI model we use to read orders will be retired
 - What happened: the vendor's deprecation page lists the model for retirement on 15 Jan 2027, posted 10 Oct (vendor's deprecation page, read 19 Oct).
 - Why it matters to us: it changes what we depend on; reading orders from messages stops working without a change.
-- We will: Act: propose that Tom tests the named replacement on last month's messages before 1 Dec.
+- We will: Act: propose that the product lead tests the named replacement on last month's messages before 1 Dec.
 - Confidence: confirmed at the primary source, high.
 
 ### "Bakeries are moving to subscription bread boxes"
@@ -150,8 +150,8 @@ Window: 2026-10-12 to 2026-10-19. Time spent: one hour. Sources checked: 11 of 1
 
 ## Proposed changes
 Suggestions only; nothing changes without the owner's yes.
-1. Consider reviewing the lowest plan against Doughline's free plan, because of the first item. For Maya (pricing).
-2. Consider adding the model replacement to this quarter's roadmap, because of the second item. For Tom (roadmap).
+1. Consider reviewing the lowest plan against Doughline's free plan, because of the first item. For the marketing lead (pricing).
+2. Consider adding the model replacement to this quarter's roadmap, because of the second item. For the product lead (roadmap).
 ```
 
-Afterwards the AI updates the watchlist (Doughline to Act, the model to Act, subscriptions added as Watch with "retire if no interview mentions it by 16 Nov"), leaves a note for Maya on the pricing document and one for Tom on the roadmap, and books the next scan for 26 Oct.
+Afterwards the AI updates the watchlist (Doughline to Act, the model to Act, subscriptions added as Watch with "retire if no interview mentions it by 16 Nov"), leaves a note for the marketing lead on the pricing document and one for the product lead on the roadmap, and books the next scan for 26 Oct.

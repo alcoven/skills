@@ -4,7 +4,7 @@ description: Keeps paying customers from leaving, for subscription and repeat-pu
 license: MIT
 metadata:
   source: https://alcoven.co/skills/retention
-  version: "1"
+  version: "2"
 ---
 
 # Retention: keep the customers who pay

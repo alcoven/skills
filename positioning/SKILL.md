@@ -4,7 +4,7 @@ description: Works out a product's positioning from the team's evidence (April D
 license: MIT
 metadata:
   source: https://alcoven.co/skills/positioning
-  version: "1"
+  version: "2"
 ---
 
 # Positioning: who it is for, against what, and why you win

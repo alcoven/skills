@@ -94,13 +94,13 @@ Kinds: value, usability, feasibility, viability, ethics. Test first the rows tha
 
 ## A worked example (invented)
 
-Crumb is an app independent bakeries use to take pre-orders from their regulars. Its trio is Maya (product), Tomás (design) and Ines (engineering). The first outcome in Crumb's strategy (strategy/2026-q4.md) is bakeries taking 20 or more repeat pre-orders a week: 18 of 140 bakeries on 20 October, with a target of 45 by 31 December. All names and numbers here are invented.
+Crumb is an app independent bakeries use to take pre-orders from their regulars. Its trio is a product manager, a designer and an engineer. The first outcome in Crumb's strategy (strategy/2026-q4.md) is bakeries taking 20 or more repeat pre-orders a week: 18 of 140 bakeries on 20 October, with a target of 45 by 31 December. All names and numbers here are invented.
 
-**The request.** On 14 October, Dev from sales writes: "Rise & Co want loyalty points. They're our biggest bakery. Can we get it into next sprint?"
+**The request.** On 14 October, a salesperson writes: "Rise & Co want loyalty points. They're our biggest bakery. Can we get it into next sprint?"
 
-**Step 1, the outcome.** Maya writes the outcome at the top of a new note, `discovery/regulars-reorder.md`, with the reading from the numbers.
+**Step 1, the outcome.** The product manager writes the outcome at the top of a new note, `discovery/regulars-reorder.md`, with the reading from the numbers.
 
-**Step 2, the problem.** Maya asks Dev for the last time Rise & Co hit the problem. Dev passes on the owner's words: "My Saturday regulars forget to order by Thursday, then they buy at the café next door." The problem is regulars missing the cut-off; points are one guess at a fix.
+**Step 2, the problem.** The product manager asks the salesperson for the last time Rise & Co hit the problem. The salesperson passes on the owner's words: "My Saturday regulars forget to order by Thursday, then they buy at the café next door." The problem is regulars missing the cut-off; points are one guess at a fix.
 
 **Step 3, the tree.** The trio has seven snapshots from the last month. Under the outcome they group what they heard:
 
@@ -115,9 +115,9 @@ Crumb is an app independent bakeries use to take pre-orders from their regulars.
 
 "Is there more than one way to answer this?" Yes, so the target is a real problem. They pick it because it came up in six of the seven snapshots, it happens every week, and it sits on the strategy's outcome.
 
-**Step 4, conversations.** Tomás books two more calls this week, one with a regular and one with a bakery owner, and Maya adds a weekly task for the trio's next four conversations.
+**Step 4, conversations.** The designer books two more calls this week, one with a regular and one with a bakery owner, and the product manager adds a weekly task for the trio's next four conversations.
 
-**Step 5, ideas.** With Ines in the room:
+**Step 5, ideas.** With the engineer in the room:
 
 - A. Loyalty points (the request).
 - B. A standing order: set it once, it repeats every week until the customer skips or pauses.
@@ -133,15 +133,15 @@ Crumb is an app independent bakeries use to take pre-orders from their regulars.
 | Bakeries accept orders that repeat without a fresh confirmation | B | viability | high | none | Calls with five owners about their last no-show. Pass: three or more accept, with a skip rule. |
 | Regulars order from a Thursday reminder | C | value | high | none | Two bakeries text their list by hand for two weeks. Pass: a quarter or more order from it. |
 | Points change when regulars order | A | value | high | some | Ask five regulars about the last time they used a stamp card. Pass: three or more say it changed when they came. |
-| Saved cards can be charged each week | B | feasibility | high | none | Ines tries it with the payment provider in test mode. Pass: works in two days. |
+| Saved cards can be charged each week | B | feasibility | high | none | The engineer tries it with the payment provider in test mode. Pass: works in two days. |
 | Regulars are never charged for a week they forgot about | B | ethics | high | none | Design rule: a notice the day before, and skip in one tap. Checked in the prototype test. |
 
-**Step 7, tests.** Over eight days: 41% of regulars had four identical orders in a row (pass). Five of six regulars set up the standing order unaided (pass). Four of five owners accept it if customers can skip by Wednesday (pass, with a condition). The hand-sent reminder brought 22% of each list to order (just under the line). Two of five regulars said a stamp card changed when they came (fail). Ines's spike worked in a day (pass).
+**Step 7, tests.** Over eight days: 41% of regulars had four identical orders in a row (pass). Five of six regulars set up the standing order unaided (pass). Four of five owners accept it if customers can skip by Wednesday (pass, with a condition). The hand-sent reminder brought 22% of each list to order (just under the line). Two of five regulars said a stamp card changed when they came (fail). The engineer's spike worked in a day (pass).
 
-**Step 8, decision.** Maya writes:
+**Step 8, decision.** The product manager writes:
 
 > Build B, the standing order, with C's Thursday message reused as the skip-a-week notice. Park A: regulars collect stamps without changing when they come. Confidence: test results with real customers, short of launch data. Next: a working version with three bakeries for three weeks, pass line 15% of each bakery's regulars on a standing order. We read the outcome again on 31 December.
 
-She hands the note out to Dev and the head of sales to read, with the passage that answers Rise & Co, and Dev offers Rise & Co a place among the first three bakeries. Tomás takes the standing order into the ux-designer skill for the experience.
+The product manager hands the note out to the salesperson and the head of sales to read, with the passage that answers Rise & Co, and the salesperson offers Rise & Co a place among the first three bakeries. The designer takes the standing order into the ux-designer skill for the experience.
 
 **What went right.** The request was a fix; the problem behind it was regulars forgetting and retyping. The team compared four ideas in eight days, the requested one among them, and each test had its pass line before it ran.

@@ -4,7 +4,7 @@ description: Grows a product some people already want. Checks must-have first (t
 license: MIT
 metadata:
   source: https://alcoven.co/skills/growth
-  version: "2"
+  version: "3"
 ---
 
 # Growth: grow what people already want

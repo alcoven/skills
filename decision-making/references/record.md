@@ -99,36 +99,36 @@ For a two-way door, a two-minute version works: "If this goes wrong, what is the
 
 ## A worked example (invented)
 
-Crumb is an app bakeries use to take orders. Ines is the founder; Tom builds the app; Ada handles sales and holds the budget; Noor looks after the bakeries once they sign up.
+Crumb is an app bakeries use to take orders. Its team: the founder; a developer who builds the app; a sales lead who also holds the budget; and a customer success lead who looks after the bakeries once they sign up.
 
 ### A two-way door
 
-Noor asks: "Should the weekly summary email go out on Monday instead of Friday?" The email's send day can be changed in a minute and affects one email. The AI sizes it as a two-way door, checks the record (nothing decided), and writes:
+The customer success lead asks: "Should the weekly summary email go out on Monday instead of Friday?" The email's send day can be changed in a minute and affects one email. The AI sizes it as a two-way door, checks the record (nothing decided), and writes:
 
 ```markdown
 # Weekly summary on Mondays
 
-21 Oct 2026. We will send the weekly summary on Monday mornings because three bakeries said they plan the week's baking on Monday (support/notes.md, 14 to 18 Oct). We also considered Sunday evening; bakeries told us they don't read email then. Decided by Noor. We look again on 30 Nov, or sooner if fewer bakeries open it.
+21 Oct 2026. We will send the weekly summary on Monday mornings because three bakeries said they plan the week's baking on Monday (support/notes.md, 14 to 18 Oct). We also considered Sunday evening; bakeries told us they don't read email then. Decided by the customer success lead. We look again on 30 Nov, or sooner if fewer bakeries open it.
 ```
 
 ### A one-way door
 
-Ines asks: "Help us decide which payment provider we launch card payments with."
+The founder asks: "Help us decide which payment provider we launch card payments with."
 
-**1. The record.** `related` and `agreed` find a decision of 10 June: invoices only during the pilot (decisions/2026-06-10-invoices-for-pilot.md), with a revisit condition, "when more than half of bakeries ask for card payments". Noor's notes show that condition met in October (support/requests.md, 3 Oct). The AI says so: the old decision named its own trigger, so reopening it is in order.
+**1. The record.** `related` and `agreed` find a decision of 10 June: invoices only during the pilot (decisions/2026-06-10-invoices-for-pilot.md), with a revisit condition, "when more than half of bakeries ask for card payments". The customer success lead's notes show that condition met in October (support/requests.md, 3 Oct). The AI says so: the old decision named its own trigger, so reopening it is in order.
 
-**2. Framing.** "Which provider do we launch card payments with, by 15 Nov?" Decider: Ines. Input: Tom, Noor. Must agree: Tom (he owns the payments code) and Ada (budget). To know: the whole team.
+**2. Framing.** "Which provider do we launch card payments with, by 15 Nov?" Decider: the founder. Input: the developer, the customer success lead. Must agree: the developer (they own the payments code) and the sales lead (budget). To know: the whole team.
 
 **3. Size.** One-way door: moving bakeries' saved cards to another provider later is slow and needs each bakery to act.
 
-**4. Criteria first.** (1) Pays bakeries out within two working days, a must-have from Noor's notes. (2) Fees at Crumb's volume. (3) Effort for Tom to build. (4) How hard it is to leave later.
+**4. Criteria first.** (1) Pays bakeries out within two working days, a must-have from the customer success lead's notes. (2) Fees at Crumb's volume. (3) Effort for the developer to build. (4) How hard it is to leave later.
 
 **5. Options.** Provider A, Provider B, and C: keep invoices until January and decide then. The vanishing options test adds D: let bakeries use their own card terminals and record payments in Crumb.
 
-**6. Independent views.** Each contributor answered before the meeting: Ines A (60%), Ada A (70%), Noor A (55%), Tom C (65%), because his team is busy with the October release.
+**6. Independent views.** Each contributor answered before the meeting: the founder A (60%), the sales lead A (70%), the customer success lead A (55%), the developer C (65%), because their team is busy with the October release.
 
-**7. Pre-mortem.** Top reasons it failed: payouts delayed and bakeries left; the build slipped past Christmas orders. Tripwires: Noor tracks payout complaints weekly; Tom flags by 1 Dec if the build is at risk.
+**7. Pre-mortem.** Top reasons it failed: payouts delayed and bakeries left; the build slipped past Christmas orders. Tripwires: the customer success lead tracks payout complaints weekly; the developer flags by 1 Dec if the build is at risk.
 
-**8. Decision and record.** Ines chooses A, about 65% sure. Tom disagrees, agrees to be named, and commits. Revisit: "five or more payout complaints by 31 Jan, or the build not live by 10 Dec; Noor and Tom check." The old June record is marked superseded and linked.
+**8. Decision and record.** The founder chooses A, about 65% sure. The developer disagrees, agrees to be named, and commits. Revisit: "five or more payout complaints by 31 Jan, or the build not live by 10 Dec; the customer success lead and the developer check." The old June record is marked superseded and linked.
 
-**9. On record.** The AI shows Ines the record, then writes it to decisions/2026-10-22-card-payments.md. `hand_out` asks Tom and Ada to agree, with Ines's line "Please agree or tell me what's missing by Friday"; the team gets it to read. A task for Ines is due 31 Jan to look at it again.
+**9. On record.** The AI shows the founder the record, then writes it to decisions/2026-10-22-card-payments.md. `hand_out` asks the developer and the sales lead to agree, with the founder's line "Please agree or tell me what's missing by Friday"; the team gets it to read. A task for the founder is due 31 Jan to look at it again.

@@ -4,7 +4,7 @@ description: Sets, tests and changes a product's prices and plans. Use when some
 license: MIT
 metadata:
   source: https://alcoven.co/skills/pricing
-  version: "1"
+  version: "2"
 ---
 
 # Pricing: charge for the value, change it with care

@@ -45,16 +45,16 @@ Every claim cites where it came from. What you could not find is said in words (
 
 ## Three examples
 
-**Small: the copy fix.** Maya at Crumb (a bakery ordering app) asks to change "Submit" to "Place order" on the checkout button. No check. Make the change. If the project keeps copy rules, follow them.
+**Small: the copy fix.** At Crumb (a bakery ordering app), the person you work for asks to change "Submit" to "Place order" on the checkout button. No check. Make the change. If the project keeps copy rules, follow them.
 
-**Medium: the feature.** Omar at Harbor Studio (a design studio's client portal) asks for a "download all files as zip" button.
+**Medium: the feature.** At Harbor Studio (a design studio's client portal), the person you work for asks for a "download all files as zip" button.
 - The record: two support threads ask for it, both from the same client, dated 3 and 9 October; no usage data on downloads.
 - The check, in one message: "Happy to build it. One thing first: both requests come from Lumen Coffee, and we have no numbers on how often clients download files one by one. If Lumen downloads to send files to their printer, a share link to the printer might do the job better. Shall I check the downloads log for the last month first (an hour), or build the zip now?"
-- Omar says build it. You build it, and add one line to the task: "Open risk: demand seen from one client only."
+- The person you work for says build it. You build it, and add one line to the task: "Open risk: demand seen from one client only."
 
-**Large: the new market.** Lena, who runs Harbor Studio, wants to offer the portal to other studios as a paid product next quarter.
+**Large: the new market.** The person who runs Harbor Studio wants to offer the portal to other studios as a paid product next quarter.
 - The record: the brief describes the portal as internal; no interviews with other studios; the strategy (agreed in July) is to grow client work.
-- The verdict: "**Rethink, then check.** Selling the portal conflicts with the strategy agreed in July (strategy.md), so that is a decision for you and Sam first. If you go ahead, the riskiest assumption is that other studios would pay for a portal when they use shared drives today. Cheapest check: five calls with studio owners about how they hand work to clients today (the customer-interviews skill has the guide), then a page with a price and a waitlist; pass line set before: 3 of 5 describe the handover as a problem, and 10 sign-ups from 200 visits."
+- The verdict: "**Rethink, then check.** Selling the portal conflicts with the strategy agreed in July (strategy.md), so that is a decision for you and your co-founder first. If you go ahead, the riskiest assumption is that other studios would pay for a portal when they use shared drives today. Cheapest check: five calls with studio owners about how they hand work to clients today (the customer-interviews skill has the guide), then a page with a price and a waitlist; pass line set before: 3 of 5 describe the handover as a problem, and 10 sign-ups from 200 visits."
 - Then: offer the decision record (decision-making) and the interview guide (customer-interviews).
 
 ## When the person disagrees

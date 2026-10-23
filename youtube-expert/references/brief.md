@@ -68,7 +68,7 @@ Then the checklist below, each line passed or failed.
 
 ## A worked example (invented)
 
-Crumb makes an app that plans a small bakery's week. Maya runs its YouTube channel and wants a video called "How Crumb plans a bakery's week". All names and numbers below are invented.
+Crumb makes an app that plans a small bakery's week. Its marketing lead runs the YouTube channel and wants a video called "How Crumb plans a bakery's week". All names and numbers below are invented.
 
 **The check.** The phrasings people would type: "bakery production schedule", "how to plan bakery production", "sourdough schedule full time job". Autocomplete completes the third to "sourdough schedule for working people" and "sourdough schedule 9 to 5". The measurements, on 22 October:
 
@@ -95,7 +95,7 @@ What they share: "my schedule" in the first person, the timetable on screen with
 What none of them does that we can: plan the week backwards from when the bread is needed, with the timings written down to copy.
 
 ## The angle
-One home baker with an office job and a Saturday market stall. She leaves with a printable timetable. Crumb appears once, at about six minutes, named plainly, as the way Maya's bakery customers keep the same plan.
+One home baker with an office job and a Saturday market stall. She leaves with a printable timetable. Crumb appears once, at about six minutes, named plainly, as the way its bakery customers keep the same plan.
 
 ## Package
 - Titles: 1. A sourdough schedule that fits a 9 to 5  2. My sourdough timetable around a full-time job  3. Sourdough on workdays: the whole week, planned

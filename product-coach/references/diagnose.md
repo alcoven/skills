@@ -65,7 +65,7 @@ Then lead. After each step, a line on what was learned and what comes next: "The
 
 ## Worked example 1: "How can we make more money?"
 
-Stillwater is an invented booking app for yoga studios; studios pay a monthly fee and their clients book classes through it. Ana, the founder, writes: "how can we make more money?". The project holds only a brief.
+Stillwater is an invented booking app for yoga studios; studios pay a monthly fee and their clients book classes through it. The founder writes: "how can we make more money?". The project holds only a brief.
 
 **First reply:**
 
@@ -75,7 +75,7 @@ Stillwater is an invented booking app for yoga studios; studios pay a monthly fe
 > 2. How many studios pay today, and how many paid three months ago?
 > 3. Do most studios' clients book through Stillwater, or do many still message the studio to book?
 
-**Ana answers:** "a) more coming in. 46 studios pay now, 51 did in July. Honestly, lots of clients still message the studios."
+**The founder answers:** "a) more coming in. 46 studios pay now, 51 did in July. Honestly, lots of clients still message the studios."
 
 **Second reply:**
 
@@ -85,7 +85,7 @@ Stillwater is an invented booking app for yoga studios; studios pay a monthly fe
 
 ## Worked example 2: "Satışlar kötü, ne yapmalıyız?"
 
-Tezgah, restoranların toptancıdan malzeme sipariş ettiği hayali bir uygulama; restoranlar aylık ücret ödüyor. Kurucu Mert yazıyor: "satışlar kötü, ne yapmalıyız?". Projede sadece brief var.
+Tezgah, restoranların toptancıdan malzeme sipariş ettiği hayali bir uygulama; restoranlar aylık ücret ödüyor. Kurucu yazıyor: "satışlar kötü, ne yapmalıyız?". Projede sadece brief var.
 
 **İlk cevap:**
 
@@ -95,7 +95,7 @@ Tezgah, restoranların toptancıdan malzeme sipariş ettiği hayali bir uygulama
 > 2. Bugün kaç restoran ödüyor, üç ay önce kaç tane ödüyordu?
 > 3. Son beş restoran sizi nasıl buldu?
 
-**Mert cevaplıyor:** "a) yeni gelmiyor. 30 restoran var, üç ay önce 29'du, bırakan neredeyse yok. Hepsi tanıdık üzerinden geldi."
+**Kurucu cevaplıyor:** "a) yeni gelmiyor. 30 restoran var, üç ay önce 29'du, bırakan neredeyse yok. Hepsi tanıdık üzerinden geldi."
 
 **İkinci cevap:**
 

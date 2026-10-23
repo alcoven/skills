@@ -2,7 +2,7 @@
 
 Step 6 of the method. A product needs selling when the team has no customers yet, when the price is above what people pay on impulse, or when more than one person decides. Then a founder sells the first customers by hand, writes down what worked, and only then hands it to others. Pete Kazanjy's *Founding Sales* (2020) is built on that order. Bob Moesta's *Demand-Side Sales 101* (2020, with Greg Engle) adds the stance: selling is helping someone make progress they already want, so the call is mostly about their situation.
 
-Examples here use an invented company, Tallyroom (a tool that sends physiotherapy patients their home exercises and shows the clinic who did them), and its founder Defne.
+Examples here use an invented company, Tallyroom (a tool that sends physiotherapy patients their home exercises and shows the clinic who did them), and its founder.
 
 ## The target list
 
@@ -19,7 +19,7 @@ Keep a few dozen named organisations, each matching the ICP's signs:
 | organisation | why it fits | who decides | way in |
 |---|---|---|---|
 | North Quay Physio | Posted in a sports physio group about patients skipping exercises (link, 12 Oct) | Owner | Group, then email |
-| Ridgeway Physio's sister clinic | Customer Kaan offered an introduction | Clinic lead | Introduction |
+| Ridgeway Physio's sister clinic | A customer at Ridgeway Physio offered an introduction | Clinic lead | Introduction |
 
 Contact details stay in the sender's own mail and contacts. The shared list holds organisation, role and first name at most.
 
@@ -36,29 +36,29 @@ Write each message; a draft is a start, and the AI never sends it. Three invente
 
 **Introduced**
 
-> Subject: Kaan suggested I write
+> Subject: [the customer's first name] suggested I write
 >
-> Hi Selin, Kaan at Ridgeway Physio said your clinic has been looking for a better way to send home exercises. I'm Defne; I was a physio for nine years and now build Tallyroom, which sends each patient their exercises and shows the clinic who did them. Ridgeway has used it since May.
+> Hi [first name], [the customer's first name] at Ridgeway Physio said your clinic has been looking for a better way to send home exercises. I'm [the founder's first name]; I was a physio for nine years and now build Tallyroom, which sends each patient their exercises and shows the clinic who did them. Ridgeway has used it since May.
 >
 > Would 20 minutes next week help? If the timing is wrong, just say.
 >
-> Defne
+> [the founder's first name]
 
 **Cold, with a sign**
 
 > Subject: Your post on patients dropping their exercises
 >
-> Hi Marco, I read your post in the sports physio group about patients who stop their exercises after the second week. I'm Defne, a former physio. Tallyroom sends the exercises and shows which patients have stopped, so the clinic can call them before the next session.
+> Hi [first name], I read your post in the sports physio group about patients who stop their exercises after the second week. I'm [the founder's first name], a former physio. Tallyroom sends the exercises and shows which patients have stopped, so the clinic can call them before the next session.
 >
 > Is this a problem at North Quay, or have you solved it? Either answer helps me.
 >
-> Defne Aksoy, Tallyroom, [postal address]. Reply "no" and I won't write again.
+> [the founder's full name], Tallyroom, [postal address]. Reply "no" and I won't write again.
 
 **After an event**
 
 > Subject: Your question at Thursday's sports physio evening
 >
-> Hi Ana, you asked the speaker how to tell which patients do their home programme. It's the question we started Tallyroom for. I can show you in 15 minutes how two clinics like yours handle it. Worth a call?
+> Hi [first name], you asked the speaker how to tell which patients do their home programme. It's the question we started Tallyroom for. I can show you in 15 minutes how two clinics like yours handle it. Worth a call?
 
 In real messages, end each one like the second: full name, company, postal address and a line to say no.
 
@@ -115,7 +115,7 @@ One row per thing that happened, never one row per organisation changed in place
 |---|---|
 | date | The day it happened, YYYY-MM-DD |
 | organisation | The organisation's name |
-| contact | Role and first name at most: "owner, Selin" |
+| contact | Role and first name at most: "owner, [first name]" |
 | channel | introduction, email, social, event, phone, group |
 | what | first message, follow-up, reply, call, trial, proposal, won, lost, no decision, no reply |
 | by | The member id of who did it |

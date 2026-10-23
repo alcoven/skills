@@ -4,7 +4,7 @@ description: Finds the riskiest assumptions in a plan or idea and tests the one 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/lean-experiments
-  version: "1"
+  version: "2"
 ---
 
 # Lean experiments: test the riskiest assumption first
