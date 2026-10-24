@@ -324,6 +324,58 @@
       ]
     },
     {
+      "name": "data-analyst",
+      "source": "https://alcoven.co/skills/data-analyst",
+      "title": "Check targets against the project's numbers",
+      "version": "1",
+      "summary": "Checks targets and expectations against what the project counted, says what each rate rests on, and reasons out loud without changing anything.",
+      "category": "Product and planning",
+      "versions": [
+        {
+          "version": "1",
+          "date": "2026-10-24",
+          "changes": "First version."
+        }
+      ],
+      "words": {
+        "en": [
+          "data analyst",
+          "is this target realistic",
+          "realistic target",
+          "check the numbers",
+          "how are the numbers doing",
+          "what should we expect",
+          "expected to bring",
+          "why did the number move",
+          "conversion rate",
+          "rate so far",
+          "on pace",
+          "behind target",
+          "check our targets",
+          "sanity check the numbers"
+        ],
+        "tr": [
+          "veri analisti",
+          "hedef gerçekçi mi",
+          "gerçekçi hedef",
+          "rakamları kontrol et",
+          "rakamlar nasıl gidiyor",
+          "ne beklemeliyiz",
+          "beklenti",
+          "dönüşüm oranı",
+          "hedefin gerisinde",
+          "hedefleri kontrol et"
+        ]
+      },
+      "folders": [
+        "numbers",
+        "data",
+        "analytics",
+        "rakamlar",
+        "veri"
+      ]
+    },
+    {
       "name": "decision-making",
       "source": "https://alcoven.co/skills/decision-making",
       "title": "Make a decision and put it on record",

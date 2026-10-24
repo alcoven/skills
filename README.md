@@ -17,6 +17,7 @@ The methods come from the people who wrote them down, among them Marty Cagan, Te
 | [product-discovery](product-discovery/) | Decides what is worth building before it is built: the problem behind a request, several ideas compared, and the riskiest assumptions tested in days. |
 | [lean-experiments](lean-experiments/) | Tests the assumption that would sink a plan with the smallest test that gives a real answer and a pass line written first, then frames the call to persevere, pivot or stop. |
 | [metrics](metrics/) | Picks a north star, inputs and guardrails, defines each in writing, and reads a dashboard or a change honestly before the team decides. |
+| [data-analyst](data-analyst/) | Checks a target, an expectation or a move against what the project counted: each reading with its date, the project's own rates with what they rest on, the reasoning marked as reasoning, and options that change nothing until the person says yes. |
 | [decision-making](decision-making/) | Sizes a decision by how hard it is to undo, scales the process to it, names one decider, and writes the decision record for the team to agree to. |
 
 ### Design and research
