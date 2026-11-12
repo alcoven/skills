@@ -4,7 +4,7 @@ description: Grows a product some people already want. Checks must-have first (t
 license: MIT
 metadata:
   source: https://alcoven.co/skills/growth
-  version: "3"
+  version: "4"
 ---
 
 # Growth: grow what people already want
@@ -75,25 +75,11 @@ When a step was skipped or the evidence points elsewhere, say it once, with the 
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`: the brief, the home widgets with their readings, and what is agreed (a north star on record is settled).
-2. `numbers` on the product's `.source.md`: the north star and the focus input `by: "week"`, with `compare: "the period before"` or a target; `by:` a field such as `source` shows which channel brings customers who stay. The answer ends with the question as a widget file: offer to keep the north star on the home (four widgets at most there):
-
-```markdown
-# Teams sharing a document each week
-
-- Show: line
-- Measure: teams sharing
-- From: product.source.md
-- By: week
-- Compare: target [n] by 2026-12-31
-- On home: yes
-
-Why it's here: our north star; every growth test is judged by it.
-```
-
+1. `open_project`: the brief and who looks after the product. `search` for a north star or targets on record: they are settled until their decider reopens them.
+2. `numbers` on the product's `.source.md`: the north star and the focus input `by: "week"`, with `compare: "the period before"` or a target (`compare: "target 40"`); `by:` a field such as `source` shows which channel brings customers who stay.
 3. `add_rows` on the test log, `growth/tests.csv`: a row when a test starts, one when it ends ([references/test-log.md](references/test-log.md) has the columns and a `.source.md` that turns the log into numbers).
-4. `add_note` with `day:` on the north star's widget for the day a test launched or a change shipped: the reason shows in the margin at that day.
-5. `add_document` for the growth model and meeting notes (show the text first), `hand_out` the north star and targets for agreement, and `task` an owner and due day for each test.
+4. When the north star moves, read the test log for what started or shipped that week before explaining the move.
+5. `add_document` for the growth model and meeting notes (show the text first), an `add_note` on the north star and targets for each person who must agree, `to` that person, and `task` an owner and due day for each test, with an `expect` line for what it should bring and the source and measure that count it, like `15 standing orders by 2026-11-28 (product.source.md standing orders)`.
 
 ## Elsewhere
 

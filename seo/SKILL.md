@@ -4,7 +4,7 @@ description: Helps a team be found in classic search (Google, Bing, and the sear
 license: MIT
 metadata:
   source: https://alcoven.co/skills/seo
-  version: "2"
+  version: "3"
 ---
 
 # SEO: be found by the people already searching
@@ -97,15 +97,15 @@ When a step is skipped or a request carries a risk, say it once, with the eviden
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`: the brief, what is agreed, the home widgets, and who looks after the website. Before writing a page, `agreed` with `about:` its subject and `related` on the draft.
+1. `open_project`: the brief and who looks after the website. Before writing a page, `search` its subject and the draft's main claims for what is decided (names, claims, pages kept unlisted).
 2. **Search Console as a table:** `seo/search-console.csv` (`date,clicks,impressions,position`) with `seo/search-console.source.md` beside it (`- Service: File in the project`, `- File: seo/search-console.csv`, `- Days: column date`, `- Expect: every week`, then `## Measures` with `- clicks: column clicks` and `- impressions: column impressions`). Append each week's days with `add_rows`, or use a Google Sheet shared with the project's Alcoven address. `numbers` reads it `by: "week"`, `compare: "last year"`.
-3. **A widget**, `seo/search.widget.md`: `- Show: line`, `- Measure: clicks, impressions`, `- From: seo/search-console.source.md`, `- By: week`, `- Since: 16 weeks`; `check_widget` reads the draft. If the site's code is a linked folder, `- Mark: merges to main in site/` marks each shipped change.
-4. `add_note` with `day:` on the widget for each day a change shipped or a Google update ran.
+3. **What shipped when:** if the site's code is a linked folder, `numbers` on it (like `site/`) lists merges and releases by day.
+4. `add_rows` to `seo/changes.csv` (`date,what`) for each day a change shipped or a Google update ran, so a later reading has its reason beside it.
 5. `add_document` for the audit (`seo/audits/YYYY-MM-DD.md`) and page briefs (`seo/briefs/<slug>.md`), showing the text first; then a `task` per fix, for its owner, with a due day, `stands_on` the audit's § address.
 
 ## Elsewhere
 
-Keep `seo/audits/`, `seo/briefs/`, `seo/search-console.csv` and `seo/changes.md` (what shipped, when); `git log --since=<date> -- <site folder>` shows site changes. In a chat with no files, ask for the Search Console exports and URLs, run the checks you can, and hand back the audit to save.
+Keep `seo/audits/`, `seo/briefs/`, `seo/search-console.csv` and `seo/changes.csv` (`date,what`: what shipped, when); `git log --since=<date> -- <site folder>` shows site changes. In a chat with no files, ask for the Search Console exports and URLs, run the checks you can, and hand back the audit to save.
 
 ## Files
 

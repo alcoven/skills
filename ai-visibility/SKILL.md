@@ -4,7 +4,7 @@ description: Measures and improves how often AI answers name, recommend and cite
 license: MIT
 metadata:
   source: https://alcoven.co/skills/ai-visibility
-  version: "2"
+  version: "3"
 ---
 
 # AI visibility: be named and cited when buyers ask an AI
@@ -81,22 +81,9 @@ When the team wants a trick, a verdict from one run, a blanket crawler block, a 
 
 Pass the project's slug and cite by § address. Keep the work in `ai-visibility/`.
 
-1. `open_project` for the brief, the home widgets and who looks after the site; `agreed` with `about: "positioning"` before any page says what the product is.
-2. `add_document` for `ai-visibility/panel.md` (show the person the text first). Each week, `add_rows` to `ai-visibility/results.csv` (one row per answer) and `ai-visibility/weekly.csv` (one row per run), each with a `.source.md` (shapes in [references/panel-and-report.md](references/panel-and-report.md)). `numbers` on results with `by: "engine"` answers "which engine names us". Offer the trend for the home:
-
-   ```markdown
-   # Mention rate in AI answers
-
-   - Show: line
-   - Measure: mention rate
-   - From: ai-visibility/weekly.source.md
-   - By: week
-   - On home: yes
-
-   Share of category and problem answers that name us, across every engine in the panel.
-   ```
-
-3. `what_changed` with `who: "everyone"` since the last report, then `add_document` for `ai-visibility/reports/YYYY-MM-DD.md`; `add_note` with `day:` on the widget for the day a fix went live.
+1. `open_project` for the brief and who looks after the site; `search` for what the project decided about positioning before any page says what the product is.
+2. `add_document` for `ai-visibility/panel.md` (show the person the text first). Each week, `add_rows` to `ai-visibility/results.csv` (one row per answer) and `ai-visibility/weekly.csv` (one row per run), each with a `.source.md` (shapes in [references/panel-and-report.md](references/panel-and-report.md)). `numbers` on results with `by: "engine"` answers "which engine names us", and on `ai-visibility/weekly.source.md` with the measure `mention rate` and `by: "week"` gives the trend.
+3. `what_changed` with `who: "everyone"` since the last report, then `add_document` for `ai-visibility/reports/YYYY-MM-DD.md`, with the day each fix went live, so a later reading has its reason beside it.
 4. `task` for each gap's step, for whoever does it, with a due day, `stands_on` the report's gap section.
 5. Rival moves go to the market-watch brief; a wrong description that traces to the team's own copy gets an `add_note` on the positioning document, `to` whoever looks after it.
 

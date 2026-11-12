@@ -97,7 +97,7 @@ Chairside sends appointment reminders for independent dental practices at £79 a
 
 **Pass lines, set first.** Diary connected within 14 days: from 49 of 86 (57%) to at least three in four of November's new practices, read 15 December 2026 (with about two dozen starting a month, one month can only show a large change); how many of them still pay in month three, read 1 March 2027. Failed charges paid within 14 days: from 6 of 15 (August and September) to at least two thirds in November, read 1 December. Guardrail: the support lead's setup time stays under eight hours a week.
 
-**The habit.** The first Monday of each month, the founder and the support lead spend thirty minutes on the month's leaver rows and the two tables; "Customers kept, by month" sits on the project's home. The honest limit, written in the review: 38 leavers were enough to choose the fix, and too few to measure a small change; a before-and-after reading is weaker than a split test, so the March reading decides whether to keep it.
+**The habit.** The first Monday of each month, the founder and the support lead spend thirty minutes on the month's leaver rows and the two tables; they read "Customers kept, by month" from the month table. The honest limit, written in the review: 38 leavers were enough to choose the fix, and too few to measure a small change; a before-and-after reading is weaker than a split test, so the March reading decides whether to keep it.
 
 ## Sources
 

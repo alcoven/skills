@@ -1,6 +1,6 @@
 # Defining a metric
 
-A metric without a written definition is a different number for everyone who pulls it. Write one for every metric the team targets or shows on its home, in one document (`metrics/definitions.md` unless the project keeps them elsewhere), and keep it current: a definition that changes gets a dated line, never a quiet edit.
+A metric without a written definition is a different number for everyone who pulls it. Write one for every metric the team targets or shows on its dashboard, in one document (`metrics/definitions.md` unless the project keeps them elsewhere), and keep it current: a definition that changes gets a dated line, never a quiet edit.
 
 ## The template
 
@@ -102,7 +102,7 @@ The north star's definition:
 - Changes: 2026-10-01: dates moved with the client's agreement now count against the new date; the chart breaks here.
 ```
 
-In an Alcoven project, the table becomes a source with a `.source.md` beside it, and the north star becomes a widget:
+In an Alcoven project, the table becomes a source with a `.source.md` beside it, which `numbers` reads (`measure: "on time"`, `by: "month"`):
 
 ```markdown
 # Studio deliveries
@@ -118,18 +118,4 @@ In an Alcoven project, the table becomes a source with a `.source.md` beside it,
 - deliveries: rows
 - on time: rows where on_time is yes
 - client: by column client
-```
-
-```markdown
-# Deliveries on the promised day
-
-- Show: line
-- Measure: on time, deliveries
-- From: ops/deliveries.source.md
-- By: month
-- Since: this year
-- On home: yes
-- Owner: m-4f2k9a
-
-Why it's here: our north star for the quarter; definition in metrics/definitions.md.
 ```

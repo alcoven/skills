@@ -4,7 +4,7 @@ description: Keeps paying customers from leaving, for subscription and repeat-pu
 license: MIT
 metadata:
   source: https://alcoven.co/skills/retention
-  version: "2"
+  version: "3"
 ---
 
 # Retention: keep the customers who pay
@@ -78,25 +78,11 @@ When a step was skipped or the evidence points elsewhere, say it once, in plain 
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`: the brief, the home widgets, what is agreed, who looks after customers and billing. Then `search` and `related` for what the project already has on cancellations, support and earlier tables.
+1. `open_project`: the brief, who looks after customers and billing. Then `search` for what the project already has on cancellations, support, decisions and earlier tables.
 2. `numbers` on the billing or product `.source.md` for paying customers `by: "month"`, and on `retention/leavers.source.md` `by: "reason"` or `by: "month"`. A quiet source means "can't tell", never zero.
-3. `add_rows` to `retention/leavers.csv` (each leaver) and `retention/months.csv` (each month); their `.source.md` files, with `- Expect: every month`, are in the references. Offer the month table as a widget on the home:
-
-```markdown
-# Customers kept, by month
-
-- Show: table
-- Measure: paying at start, kept, share kept
-- From: retention/months.source.md
-- By: month
-- Since: 2026-01-01
-- On home: yes
-
-Why it's here: of the customers paying at the start of each month, how many still paid at its end.
-```
-
-4. `add_document` for each call note (as the customer-interviews skill says) and the monthly review, `retention/reviews/YYYY-MM.md`, citing rows and notes by § address. Show the person the text first.
-5. `task` for each fix, with its owner, the reading date as the due day, and the review's § it stands on; `add_note` with `day:` on the widget when the fix ships.
+3. `add_rows` to `retention/leavers.csv` (each leaver) and `retention/months.csv` (each month); their `.source.md` files, with `- Expect: every month`, are in the references. `numbers` on `retention/months.source.md` `by: "month"` gives the share kept each month.
+4. `add_document` for each call note (as the customer-interviews skill says) and the monthly review, `retention/reviews/YYYY-MM.md`, citing rows and notes by § address, with the day each fix shipped. Show the person the text first.
+5. `task` for each fix, with its owner, the reading date as the due day, the review's § it stands on, and an `expect` line naming the source and measure that count it.
 
 ## Elsewhere
 

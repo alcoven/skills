@@ -89,7 +89,7 @@ Paste the skill's `SKILL.md` into the conversation, then the documents it points
 
 ## For a team: add it to an Alcoven project
 
-Installed this way, a skill stays where you put it: in a folder on one computer or in one repository, or in one person's account in one AI app. Claude's Team and Enterprise plans share skills across an organisation, with colleagues who use Claude. An Alcoven project gives a skill to the AI each person on it uses: the agent in Alcoven; Claude, or ChatGPT on plans that let you add an MCP server, when they open the project there; and Claude Code or Codex in the project's folder. Change the skill once in the project, and every one of those AIs is given the new version. When Alcoven changes a skill, your project is offered the new version with what changed, and you decide what to keep where it meets your own changes.
+Installed this way, a skill stays where you put it: in a folder on one computer or in one repository, or in one person's account in one AI app. Claude's Team and Enterprise plans share skills across an organisation, with colleagues who use Claude. An Alcoven project gives a skill to the AI each person on it uses: Claude, or ChatGPT on plans that let you add an MCP server, when they open the project there, and Claude Code or Codex in the project's folder. Change the skill once in the project, and every one of those AIs is given the new version. When Alcoven changes a skill, your project is offered the new version with what changed, and you decide what to keep where it meets your own changes.
 
 Add one to a project from its page: [alcoven.co/skills](https://alcoven.co/skills).
 

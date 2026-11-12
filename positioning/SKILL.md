@@ -4,7 +4,7 @@ description: Works out a product's positioning from the team's evidence (April D
 license: MIT
 metadata:
   source: https://alcoven.co/skills/positioning
-  version: "2"
+  version: "3"
 ---
 
 # Positioning: who it is for, against what, and why you win
@@ -86,10 +86,10 @@ Reposition when the product, the competitors or the market change (AI has change
 
 Pass the project's slug; cite every line by its § address.
 
-1. `open_project` (the brief, what is agreed, who looks after marketing, sales and product), then `agreed` with `about: "positioning"` and `about: "target customer"`.
+1. `open_project` (the brief, who looks after marketing, sales and product), then `search` for what is decided about positioning and the target customer.
 2. `search` and `grep` for evidence ("switched from", "instead of", "spreadsheet", "lost to", "cancelled"); `read` the hits a section at a time.
-3. `related` on the draft's main lines before writing; tell the person about conflicts.
-4. Show the text, then `add_document` the canvas (`positioning/positioning.md` or the marketing folder) with the § addresses you read. `hand_out` it to the people who sell, build and market for agreement, and add a `task` per evidence gap, for one person, with a due day.
+3. `search` on the draft's main lines before writing; tell the person about conflicts.
+4. Show the text, then `add_document` the canvas (`positioning/positioning.md` or the marketing folder) with the § addresses you read. an `add_note` on it for each person who sells, builds or markets, `to` that person, asking them to agree, and add a `task` per evidence gap, for one person, with a due day.
 5. For copy, `read` the page and `add_note` on each off-position section, `to` whoever looks after it. For signals, `what_changed` with `who: "everyone"` since the canvas date, and `numbers` for win rate or sign-ups by source where a source keeps them.
 
 ## Elsewhere

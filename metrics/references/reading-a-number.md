@@ -60,7 +60,7 @@ Data about people who stayed says nothing about those who left. Abraham Wald's w
 
 ### 10. What else happened?
 
-Lay out a timeline of the period: releases, campaigns, newsletters, price changes, outages, holidays, a competitor's news, changes to tracking. In Alcoven, `- Mark: releases of app/` on a widget and the notes left with `day:` put most of this on the chart.
+Lay out a timeline of the period: releases, campaigns, newsletters, price changes, outages, holidays, a competitor's news, changes to tracking. In Alcoven, `numbers` on a linked folder such as `app/` lists the releases, and `what_changed` since a day lists what the team wrote.
 
 *Example.* Sign-ups rose 40% in launch week. The newsletter went out the same morning. Split by source, the newsletter brought most of the rise; sign-ups from the new page were level with the week before.
 

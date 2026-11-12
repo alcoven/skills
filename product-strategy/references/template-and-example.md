@@ -142,7 +142,7 @@ If Crumb used OKRs, the first outcome would read: Objective, "Bakeries' regulars
 
 ### Agreeing it
 
-The product manager hands the strategy out for agreement. The salesperson's part is the not-do list and action 3; the customer success lead's is action 4 and the second outcome; the trio's is the first outcome and the roadmap's Now. Before the review date, the product manager asks the salesperson and one of the engineers separately to say the strategy in two sentences. Both mention regulars ordering every week; the salesperson forgets the guardrail, so the next version moves it next to the target.
+The product manager asks each person to agree, with a note on each passage that concerns them: the salesperson's are the not-do list and action 3; the customer success lead's are action 4 and the second outcome; the trio's are the first outcome and the roadmap's Now. Before the review date, the product manager asks the salesperson and one of the engineers separately to say the strategy in two sentences. Both mention regulars ordering every week; the salesperson forgets the guardrail, so the next version moves it next to the target.
 
 ### Checking proposed work
 

@@ -4,7 +4,7 @@ description: Sets, tests and changes a product's prices and plans. Use when some
 license: MIT
 metadata:
   source: https://alcoven.co/skills/pricing
-  version: "2"
+  version: "3"
 ---
 
 # Pricing: charge for the value, change it with care
@@ -89,11 +89,11 @@ When a step was skipped or the evidence points elsewhere, say it once, with the 
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`, then `agreed` with `about: "pricing"`: a price on record stands until its decider reopens it. `history` on the pricing document shows each past price, when and by whom.
+1. `open_project`, then `search` for prices and pricing decisions on record: a price on record stands until its decider reopens it. `history` on the pricing document shows each past price, when and by whom.
 2. `numbers` on the billing or product `.source.md`: paying customers, trial-to-paid conversion and cancellations, `by: "plan"` or `by: "month"`, `compare: "the period before"`. If no source keeps them, the counts from the billing export go in a CSV with a `.source.md` beside it.
 3. `add_rows` to `pricing/deals.csv`, one row per won or lost deal with its price note, with `pricing/deals.source.md` beside it so `numbers` counts deals lost on price by month (columns in [references/willingness-to-pay.md](references/willingness-to-pay.md)).
 4. `add_document` for `pricing/pricing.md` and a card per test in `pricing/tests/` (show the text first); a `task` for each test's reading date, standing on its card.
-5. A rise for existing customers is a one-way door (the decision-making skill): the decision on record with `add_document`, `hand_out` with `ask: "agree"` to those who must agree, and a `task` for the notice on its sending day. The person tells customers, outside Alcoven.
+5. A rise for existing customers is a one-way door (the decision-making skill): the decision on record with `add_document`, an `add_note` on it for each person who must agree, `to` that person, and a `task` for the notice on its sending day. The person tells customers, outside Alcoven.
 
 ## Elsewhere
 

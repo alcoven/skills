@@ -4,7 +4,7 @@ description: Make YouTube videos and Shorts people watch, picked from evidence. 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/youtube-expert
-  version: "2"
+  version: "3"
 ---
 
 # YouTube expert: evidence first, then the video
@@ -91,10 +91,10 @@ When the team is about to make a topic that checked weak, open on its logo, or r
 
 Pass the project's slug and cite by § address. Keep the work in one folder, `video/` (or the team's own):
 
-1. `open_project` for the brief, what is agreed and who looks after video; `agreed` with `about: "video"` for decisions already made.
-2. Before a new brief, `related` on the topic and `search` the folder: earlier briefs, scout reports and "What our channel has learnt" often settle it.
+1. `open_project` for the brief and who looks after video; `search` for decisions already made about video.
+2. Before a new brief, `search` the topic and the folder: earlier briefs, scout reports and "What our channel has learnt" often settle it.
 3. `add_document` for each brief and scout report, dated (`video/briefs/2026-10-22-<slug>.md`, `video/scout-2026-10-22.md`), showing the person the text first; `edit_document` for the playbook, which the person confirms.
-4. The channel's numbers as a table, `video/channel.csv` ([references/measure.md](references/measure.md) has the columns), with `video/channel.source.md` beside it (`- Service: File in the project`, `- File: video/channel.csv`, `- Days: column date`, then `## Measures` such as `- engaged views: column engaged_views`). Append each week's readings with `add_rows`; a `video/views.widget.md` draws it on the project, and `numbers` answers "how did last month's Shorts do".
+4. The channel's numbers as a table, `video/channel.csv` ([references/measure.md](references/measure.md) has the columns), with `video/channel.source.md` beside it (`- Service: File in the project`, `- File: video/channel.csv`, `- Days: column date`, then `## Measures` such as `- engaged views: column engaged_views`). Append each week's readings with `add_rows`; `numbers` answers "how did last month's Shorts do".
 5. `task` for the next piece (who makes it, by when), standing on the brief's § address.
 
 ## Elsewhere

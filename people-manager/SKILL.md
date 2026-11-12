@@ -4,7 +4,7 @@ description: Helps a manager do the weekly work of managing people well. Use to 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/people-manager
-  version: "2"
+  version: "3"
 ---
 
 # People manager: the team's output is your output
@@ -115,7 +115,7 @@ Pass the project's slug and cite by § address.
 
 1. `open_project`: who is on the project, their roles and what each looks after.
 2. `what_changed` with `who: "everyone"` and `since:` the last 1:1 or meeting: what the person did, their notes, what they agreed to.
-3. `numbers` with source `this project`, measure `tasks past due` (or `open tasks`), `by: "person"`: to spot overload, never to rank. `task_context` on a task you will discuss; `my_tasks` for what waits on the manager.
+3. `numbers` with source `this project`, measure `tasks past due` (or `open tasks`), `by: "person"`: to spot overload, never to rank. `read` on a task you will discuss gives its briefing; `open_project` shows what waits on the manager.
 4. `task` to delegate: `for` the person, `due`, the brief in `details`, and `stands_on` the § addresses it builds on. `add_note` with `to` to ask one person a question on a document.
 
 1:1 prep and feedback stay in this conversation by default. If the manager wants them kept on the project, check the folder with `who_sees` first, and write there only on their yes for that place. Change who sees a folder only when the manager asks.

@@ -115,7 +115,7 @@ The customer success lead asks: "Should the weekly summary email go out on Monda
 
 The founder asks: "Help us decide which payment provider we launch card payments with."
 
-**1. The record.** `related` and `agreed` find a decision of 10 June: invoices only during the pilot (decisions/2026-06-10-invoices-for-pilot.md), with a revisit condition, "when more than half of bakeries ask for card payments". The customer success lead's notes show that condition met in October (support/requests.md, 3 Oct). The AI says so: the old decision named its own trigger, so reopening it is in order.
+**1. The record.** `search` finds a decision of 10 June: invoices only during the pilot (decisions/2026-06-10-invoices-for-pilot.md), with a revisit condition, "when more than half of bakeries ask for card payments". The customer success lead's notes show that condition met in October (support/requests.md, 3 Oct). The AI says so: the old decision named its own trigger, so reopening it is in order.
 
 **2. Framing.** "Which provider do we launch card payments with, by 15 Nov?" Decider: the founder. Input: the developer, the customer success lead. Must agree: the developer (they own the payments code) and the sales lead (budget). To know: the whole team.
 
@@ -131,4 +131,4 @@ The founder asks: "Help us decide which payment provider we launch card payments
 
 **8. Decision and record.** The founder chooses A, about 65% sure. The developer disagrees, agrees to be named, and commits. Revisit: "five or more payout complaints by 31 Jan, or the build not live by 10 Dec; the customer success lead and the developer check." The old June record is marked superseded and linked.
 
-**9. On record.** The AI shows the founder the record, then writes it to decisions/2026-10-22-card-payments.md. `hand_out` asks the developer and the sales lead to agree, with the founder's line "Please agree or tell me what's missing by Friday"; the team gets it to read. A task for the founder is due 31 Jan to look at it again.
+**9. On record.** The AI shows the founder the record, then writes it to decisions/2026-10-22-card-payments.md. A note on the record asks the developer to agree, and another asks the sales lead, each with the founder's line "Please agree or tell me what's missing by Friday"; a note to each of the others asks them to read it. A task for the founder is due 31 Jan to look at it again.

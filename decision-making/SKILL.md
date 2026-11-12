@@ -4,7 +4,7 @@ description: Helps a team make a decision well, on evidence, and put it on recor
 license: MIT
 metadata:
   source: https://alcoven.co/skills/decision-making
-  version: "2"
+  version: "3"
 ---
 
 # Decision making: size it, decide it, put it on record
@@ -111,11 +111,11 @@ Name one when you see it, once, with the evidence and the fix. Why each hurts an
 
 Pass the project's slug and cite by § address.
 
-1. `related` with the question in a sentence or two, and `agreed` with `about:` the subject: what is already decided or agreed. A choice settled on a call may live only in a document, so `search` too.
-2. `why` on the passage that settled it: who decided, when, and what they read. If the new step goes against an agreed line, stop that step, tell the person, and `add_note` on that section `to` whoever put it there.
+1. `search` the subject in two or three phrasings: what is already decided, in a decisions folder or in any other document (a choice settled on a call may live only in meeting notes).
+2. `history` on the passage that settled it, with a few of its words as `quote`: who wrote it, when, what they asked for and what they read. If the new step goes against a line on record, stop that step, tell the person, and `add_note` on that section `to` whoever put it there.
 3. For a one-way door, `add_note` with `to` each contributor on the options section, asking for their choice, reason and how sure they are. Everyone who sees the document sees its notes, so ask each person to write theirs before reading the others', and show no recommendation until they have.
 4. Show the person the record, check the folder with `list` (the project's decisions folder, else `decisions/YYYY-MM-DD-<slug>.md`), then `add_document` with `asked` in their words and `read`.
-5. `hand_out` with `ask: "agree"` to those who must agree, and the person's own `line`; `ask: "read"` for those who need to know. Then `task` for the decider, due on the revisit date, standing on the record.
+5. For each person who must agree, an `add_note` on the record `to` them, with a line from the person you work for; once they agree, `edit_document` adds them to the record's "Agreed by" line. A note `to` each person who needs to know asks them to read it. Then `task` for the decider, due on the revisit date, standing on the record.
 
 ## Elsewhere
 

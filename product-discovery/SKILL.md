@@ -4,7 +4,7 @@ description: Decides, one customer problem at a time, what is worth building bef
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-discovery
-  version: "2"
+  version: "3"
 ---
 
 # Product discovery: learn what is worth building, then build it
@@ -27,7 +27,7 @@ The strategy sets the outcomes this work serves (the product-strategy skill). Di
 |---|---|---|
 | **Small or easy to undo** | a label, a setting, a change behind a flag | Name the problem and the assumption that matters; ship to a few customers, watch one number. |
 | **Medium** | a feature, a new step in a flow, an integration | Steps 1 to 8, over a few days. |
-| **Large or hard to undo** | a new product area, a pricing model, custom work for one big customer | The full method, more than one round of tests, and the decision handed out to the people it affects. |
+| **Large or hard to undo** | a new product area, a pricing model, custom work for one big customer | The full method, more than one round of tests, and the decision shared with the people it affects. |
 
 ## The method
 
@@ -79,11 +79,11 @@ Name one when you see it, once, with the evidence and the fix.
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`: the brief, the outcomes on the home with their readings, what is agreed (the strategy).
-2. `related` with the request in a sentence: earlier interviews, notes and decisions on the same problem. `grep` for the customers' own words in `discovery/`; `numbers` for the outcome's reading and date.
+1. `open_project`: the brief and who looks after what; `search` for the strategy and the outcomes on record.
+2. `search` the request's subject: earlier interviews, notes and decisions on the same problem. `grep` for the customers' own words in `discovery/`; `numbers` for the outcome's reading and date.
 3. `add_document`, after showing the person the text, for each snapshot (`discovery/interviews/YYYY-MM-DD-<who>.md`), the tree (`discovery/opportunities.md`) and each note (`discovery/<slug>.md`), with `read` set to the § addresses used.
 4. `task` for the next conversation, for the trio member holding it, due on the day, standing on the tree; add the following week's when this one is done. `add_note` with `to` on the request, asking whoever brought it for the last time it happened.
-5. `hand_out` the decided note (`ask: read`, with the person's own line on top) to those who asked, each with the passage that answers them. A decision that changes the strategy or a commitment goes on record (the decision-making skill).
+5. `add_note` on the decided note, `to` each person who asked, quoting the passage that answers them (`passage`), with a line from the person you work for. A decision that changes the strategy or a commitment goes on record (the decision-making skill).
 
 To see when the habit stops, log each conversation with `add_rows` in `discovery/touchpoints.csv`, with a `.source.md` beside it that expects a row every week.
 

@@ -24,13 +24,11 @@ Evidence: [the customer count and the calls, with dates and grades].
 
 ## Engine: [its name, in the team's words]
 
-- Target: [n] [what is counted] by [date].
-- Target: [n] [the result it should bring] by [date].
+- Target: [n] [what is counted] by [date] ([the record's source] [its measure]).
+- Target: [n] [the result it should bring] by [date] ([the record's source] [its measure]).
 - Weekly: [the actions, with how many], by [member id].
 - Record: [path to the table], one row per [thing that happened], with its date; new rows every week; kept by [member id].
 - Test: [pass line, set on date], read on [date]; then focus or drop.
-
-[A widget line for each target]
 
 ## Not this period
 
@@ -45,7 +43,7 @@ Rules for the plan:
 
 - **Every target is a number and a date.** "Grow outreach" is a wish; "60 first messages by 2026-12-31" can be reviewed. A target with no date gets one, or the review says "the plan sets no date".
 - **Two kinds of target per engine where possible:** what the team does (messages sent, talks given), which it controls, and what that should bring (calls, customers), which it doesn't. When results lag, the review can see whether the work happened.
-- **Every engine has one record,** a table with one row per thing that happened, with the day it happened. A target nothing counts is a hope.
+- **Every engine has one record,** a table with one row per thing that happened, with the day it happened. Each target names the record and the measure that count it. A target nothing counts is a hope.
 - **Every engine and every weekly action has one owner,** by member id.
 - **Three engines at most** for a small team, including the tests.
 - **"Not this period" is part of the plan.** It is where the ads, the second segment and the big launch wait, with a reason, so they aren't re-argued every week.
@@ -56,7 +54,7 @@ Work back from the goal through the team's own rates. If September's records sho
 
 With no records yet, set the activity targets the team can keep (as many messages a week as the founder can write well), mark the result targets as first guesses, and reset them at the first review with the real rates. Never use another company's or an industry's rates as the team's own.
 
-## The records and the widgets
+## The records and how each target is counted
 
 The outreach log from [founder-led-sales.md](founder-led-sales.md) (`date,organisation,contact,channel,what,by,note`) becomes numbers with a source file beside it, `gtm/outreach.source.md`:
 
@@ -80,22 +78,7 @@ The outreach log from [founder-led-sales.md](founder-led-sales.md) (`date,organi
 
 Each `rows where` line counts one column holding one value. When an engine needs a count across two columns, give it its own table. Other engines keep the same shape: one row per thing, a date, a `what` column (a talk's table might hold `talk given`, `sign-up`, `call`; an introductions table `asked`, `introduced`, `call`, `won`).
 
-A widget per target, `gtm/first-messages.widget.md`:
-
-```markdown
-# First messages to sports clinics
-
-- Show: line
-- Measure: first messages
-- From: gtm/outreach.source.md
-- By: week
-- Since: 2026-10-26
-- Compare: target 60 by 2026-12-31
-
-Why it's here: the outreach engine's activity target (gtm/readme.md, "Engine: outreach to sports clinics").
-```
-
-In the plan, a widget line is a link on a line of its own, `[First messages to sports clinics](first-messages.widget.md)`, under its engine. Alcoven draws it there, and an AI reading the plan gets the reading in its place: the count, the gap, the days left and the newest row's date. A project's home holds four widgets; give the goal and the engine most at risk `- On home: yes`.
+Each target names what counts it, in brackets after its date: the record's source and one of its measures, as in `- Target: 60 first messages by 2026-12-31 (gtm/outreach.source.md first messages)`. A review reads that measure from the record since the plan's first day, against the target: in Alcoven, `numbers` with that source and measure and `compare: "target 60"`, which gives the count, the gap and the newest row's date. A task for a week's actions names the same source and measure in what it should bring, so the plan, the tasks and the review count the same rows.
 
 ## A worked example (invented)
 
@@ -132,26 +115,23 @@ The plan, in short:
 
 ## Engine: outreach to sports clinics
 
-- Target: 60 first messages by 2026-12-31.
-- Target: 12 calls held by 2026-12-31 (a first guess from September's 20 messages).
+- Target: 60 first messages by 2026-12-31 (gtm/outreach.source.md first messages).
+- Target: 12 calls held by 2026-12-31 (gtm/outreach.source.md calls); a first guess from September's 20 messages.
 - Weekly: 6 first messages on Mondays and the sales hour on Thursdays, by m-3d8f1a.
 - Record: gtm/outreach.csv, one row per message, reply or call; new rows every week; kept by m-3d8f1a.
 - Test: at least 3 calls from the first 20 messages, read on 2026-11-16; then focus or drop.
 
-[First messages to sports clinics](first-messages.widget.md)
-[Calls held](calls.widget.md)
-
 ## Engine: talks at association evenings
 
-- Target: 3 talks given by 2026-12-31.
-- Target: 6 clinics starting a trial after a talk by 2026-12-31 (a first guess from one evening).
+- Target: 3 talks given by 2026-12-31 (gtm/talks.source.md talks given).
+- Target: 6 clinics starting a trial after a talk by 2026-12-31 (gtm/talks.source.md sign-ups); a first guess from one evening.
 - Weekly: m-7k2p4c has the demo clinic ready by 2026-11-05; m-3d8f1a writes to two association organisers a week until three talks are booked.
 - Record: gtm/talks.csv; kept by m-3d8f1a.
 
 ## Engine: introductions from customers
 
-- Target: all 14 clinics asked for one introduction by 2026-11-15.
-- Target: 5 introductions by 2026-12-31.
+- Target: all 14 clinics asked for one introduction by 2026-11-15 (gtm/introductions.source.md asked).
+- Target: 5 introductions by 2026-12-31 (gtm/introductions.source.md introduced).
 - Weekly: 3 customers asked at their check-in call, by m-7k2p4c.
 - Record: gtm/introductions.csv; kept by m-7k2p4c.
 
@@ -164,7 +144,7 @@ Ads, a launch on a launch site, solo practitioners, the self-serve trial.
 The rates come from 20 messages and one evening; the first review resets the result targets.
 ```
 
-In Alcoven, the founders hand each engine's section to its owner to agree, add a task per weekly action, add rows to the tables as things happen, and put "New paying clinics" (the goal, counted from `gtm/customers.csv`, one row per clinic that starts, with `- Compare: target 11 by 2026-12-31`) and "First messages" on the home. On 5 November the gtm-review skill reads the plan, the tables and the widgets.
+In Alcoven, the founders add a task per weekly action with what it should bring, add rows to the tables as things happen, keep a `.source.md` beside each table, and count the goal, "New paying clinics", from `gtm/customers.csv` (one row per clinic that starts) with its own source. A plan with more owners than its writers asks each owner to agree in a note on their engine's section. On 5 November the gtm-review skill reads the plan, the tables and the numbers.
 
 ## Sources
 

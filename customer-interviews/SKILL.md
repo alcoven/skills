@@ -4,7 +4,7 @@ description: Plans, checks and makes sense of customer interviews, so a team lea
 license: MIT
 metadata:
   source: https://alcoven.co/skills/customer-interviews
-  version: "2"
+  version: "3"
 ---
 
 # Customer interviews: ask what they did, last time
@@ -74,10 +74,10 @@ When you see a risk (a guide that pitches, a plan to interview only friends, a b
 
 Pass the project's slug and cite each line by its § address.
 
-1. `open_project`: the brief, who looks after research and the topic, and what is agreed. `agreed` with `about:` the subject shows what people already settled.
-2. Before new interviews: `search` the subject and run `related` on the research questions, to find what the project already learned (old notes, syntheses, support notes). Read what comes back with `read`.
+1. `open_project`: the brief, and who looks after research and the topic.
+2. Before new interviews: `search` the subject and the research questions, in two or three phrasings, to find what the project already learned or settled (old notes, syntheses, support notes, decisions). Read what comes back with `read`.
 3. One document per interview with `add_document`, such as `research/interviews/2026-10-22-p3.md`. Show the person the text first. Notes about real people usually need `for: "team"`, with `for_why` naming the personal data.
-4. The synthesis with `add_document` in `research/`, citing every finding by the § addresses of the notes it stands on. Then `hand_out` it to whoever decides, or `add_note` on the plan's section it touches, `to` whoever looks after it.
+4. The synthesis with `add_document` in `research/`, citing every finding by the § addresses of the notes it stands on. Then `add_note` on it, `to` whoever decides, or on the plan's section it touches, `to` whoever looks after it.
 5. `task` for the next round (who recruits, by when), `stands_on` the synthesis.
 
 ## Elsewhere

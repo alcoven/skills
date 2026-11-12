@@ -4,7 +4,7 @@ description: Writes, reviews and applies a product strategy, meaning the diagnos
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-strategy
-  version: "2"
+  version: "3"
 ---
 
 # Product strategy: name the challenge, choose, and say no
@@ -79,13 +79,13 @@ Since AI made building cheaper (2023 to 2026), output is plentiful and proves li
 
 Pass the project's slug and cite by § address.
 
-1. `open_project`: the brief, the home widgets with their readings, what is agreed and open. `agreed` with `about:` the strategy or the subject; `numbers` for each baseline and its date.
-2. `related` with the draft diagnosis or the proposed work: what the project already holds on it, and anything that conflicts.
+1. `open_project`: the brief and who looks after what. `search` for the current strategy and what is decided or agreed on the subject; `numbers` for each baseline and its date.
+2. `search` on the draft diagnosis or the proposed work: what the project already holds on it, and anything that conflicts.
 3. `add_document` for the strategy (for example `strategy/2026-q4.md`), after showing the person the text; changes later go through `edit_document`, which the person confirms.
-4. `hand_out` with `ask: agree` and the person's own line on top: each member gets up to three passages that concern them (the not-do list to sales, an outcome to the team that leads it) and is asked to agree to this version.
-5. One widget per outcome, from the source that holds its measure, with `- Compare: target 45 by 2026-12-31` and `- On home: yes` (four at most on the home).
+4. Ask each member to agree to this version: up to three `add_note`s `to` them, each quoting one passage that concerns them (the not-do list for sales, an outcome for the team that leads it), with a line from the person you work for.
+5. Each outcome names the source and measure that count it, so `numbers` with `compare: "target 45"` reads it at each check-in.
 
-To check new work, run `agreed` and `related` on the proposal and answer with § addresses; put the verdict on the proposal with `add_note`. Add a `task` for each check-in on the outcomes.
+To check new work, `search` on the proposal and answer with § addresses; put the verdict on the proposal with `add_note`. Add a `task` for each check-in on the outcomes.
 
 ## Elsewhere
 

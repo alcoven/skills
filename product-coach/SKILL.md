@@ -4,7 +4,7 @@ description: Start here when a request is broad, vague or a goal more than a tas
 license: MIT
 metadata:
   source: https://alcoven.co/skills/product-coach
-  version: "4"
+  version: "5"
 ---
 
 # Product coach: the right thing first, then done well
@@ -133,9 +133,9 @@ Name a mistake when you see it in the request or the plan, once, with the eviden
 
 ## In Alcoven
 
-1. `open_project`: the brief, what is agreed and what is open, who looks after what, and the home widgets with their readings.
-2. `related` with the request in a sentence or two: what the project already has on record (research, decisions, earlier attempts). Read what matters.
-3. `agreed` with `about:` the subject: lines people agreed to that the work touches. A conflict goes to the person, and to whoever put the line there (`why` names them).
+1. `open_project`: the brief, what waits on the person, and who looks after what.
+2. `search` the request's subject in two or three phrasings: what the project already has on record (research, decisions, earlier attempts) and lines people agreed to that the work touches. Read what matters.
+3. A conflict goes to the person, and to whoever put the line there (`history` on the passage names them).
 4. `numbers` when the project keeps a source for customers, sign-ups or revenue, for today's reading and its date.
 
 Then give the diagnosis or the check with § addresses. Where the result goes: the diagnosis as a short dated document if the person wants to keep it (show them the text first), the verdict and any open risk as a note on the plan (`add_note`), the cheapest check as a task with a due day (`task`, standing on the § addresses it came from), and a decision as a decision record (the `decision-making` skill). If the project lacks the skill the work needs, offer once to add it with `add_skill`; it is added only after the person sees it and says yes.

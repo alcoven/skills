@@ -4,7 +4,7 @@ description: Writes a go-to-market plan, above all for a team winning its first 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/gtm-plan
-  version: "2"
+  version: "3"
 ---
 
 # Go-to-market plan: who buys first, and how the team reaches them
@@ -91,11 +91,11 @@ When a choice looks risky (a second segment, ads before any sale, a hire, a cold
 
 Pass the project's slug and cite by § address.
 
-1. `open_project` (the brief, home widgets, who looks after sales and marketing), then `agreed` with `about: "customers"` and `about: "pricing"`; `search` and `grep` for how customers came ("heard about", "referred") and for earlier plans.
-2. `related` on the draft's segment and targets before writing; tell the person about conflicts.
-3. Show the text, then `add_document` the plan as `gtm/readme.md`, each engine a section with its targets and widget lines. `hand_out` each engine's section to its owner with `ask: "agree"`.
-4. Each engine's record is a CSV with a `.source.md` beside it (`- Expect: every week`, `- Owner:` the member who keeps it); rows go in with `add_rows` as things happen. Each target gets a widget with `- Compare: target 20 by 2026-12-31`; up to four go on the home.
-5. `task` for each weekly action, for its owner, with a due day and `stands_on` the plan's section. The review is the gtm-review skill's.
+1. `open_project` (the brief, who looks after sales and marketing), then `search` for what is decided about customers and pricing, how customers came ("heard about", "referred") and earlier plans; `grep` for exact phrases.
+2. `search` again on the draft's segment and targets before writing; tell the person about conflicts.
+3. Show the text, then `add_document` the plan as `gtm/readme.md`, each engine a section with its targets, each target naming the source and measure that count it. `add_note` on each engine's section, `to` its owner, asking them to agree.
+4. Each engine's record is a CSV with a `.source.md` beside it (`- Expect: every week`, `- Owner:` the member who keeps it); rows go in with `add_rows` as things happen. `numbers` reads each target's measure with `compare: "target 20"`.
+5. `task` for each weekly action, for its owner, with a due day, `stands_on` the plan's section, and an `expect` line for what it should bring, like `6 first messages by 2026-11-02 (gtm/outreach.source.md first messages)`. After that day Alcoven adds what came of it. The review is the gtm-review skill's.
 
 ## Elsewhere
 
@@ -105,4 +105,4 @@ Write the plan as a Markdown file and each record as a CSV or a spreadsheet tab,
 
 - [references/choosing.md](references/choosing.md): the customer count, the segment, the motions, the 19 channels and the Bullseye, channel-model fit, launches, and what changed from 2024 to 2026.
 - [references/founder-led-sales.md](references/founder-led-sales.md): the target list, first messages, follow-up, cold-email law, the call guide, objections, the pipeline table, when to hire.
-- [references/plan.md](references/plan.md): the plan template, the records and widgets, setting targets, a worked example, and the sources.
+- [references/plan.md](references/plan.md): the plan template, the records and how each target is counted, setting targets, a worked example, and the sources.

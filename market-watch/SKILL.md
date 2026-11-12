@@ -4,7 +4,7 @@ description: Keeps a team current on its market without drowning in it. A weekly
 license: MIT
 metadata:
   source: https://alcoven.co/skills/market-watch
-  version: "2"
+  version: "3"
 ---
 
 # Market watch: what changed, and what it means for us
@@ -78,9 +78,9 @@ When a change looks big (a rival's launch, a platform retiring something, a new 
 
 Pass the project's slug and cite each line by its § address.
 
-1. `open_project`: the brief, what is agreed, and the looks-after lines, so you know who owns positioning, the roadmap and pricing.
+1. `open_project`: the brief and the looks-after lines, so you know who owns positioning, the roadmap and pricing.
 2. `read` `market/watchlist.md` and the newest brief in `market/briefs/`; then `what_changed` with `who: "everyone"` and `since:` that brief's date, for what the team learned meanwhile (interview notes, support notes, lost deals).
-3. Before writing an item up, `related` on its text, and `agreed` with `about:` its subject: the project may already have it on record or have decided about it.
+3. Before writing an item up, `search` its subject: the project may already have it on record or have decided about it.
 4. `add_document` for `market/briefs/YYYY-MM-DD.md` (show the person the text first), and `edit_document` for the watchlist, which the person confirms.
 5. `add_note` on the section each Act item touches, quoting the passage, `to` whoever looks after it; then `task` for the next scan, due in a week, for the person who runs it, `stands_on` the brief and the watchlist.
 

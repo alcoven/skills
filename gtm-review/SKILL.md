@@ -4,7 +4,7 @@ description: Answers "is the plan working?" for a go-to-market plan. Use for a w
 license: MIT
 metadata:
   source: https://alcoven.co/skills/gtm-review
-  version: "1"
+  version: "2"
 ---
 
 # GTM review: is the plan working?
@@ -27,7 +27,7 @@ If you can only see what is pasted into the conversation, ask for the plan and t
 1. **Find the plan's engines.** An engine is a part of the plan meant to bring results: outreach to a kind of customer, content, a channel, a partnership. The plan may call them channels, motions or goals; use its word. For each, note the target (a number and a date or period) and where the plan says it (document and section). An engine with no number gets "the plan sets no target for it", and you review what was done without a gap.
 2. **Set the window.** Write today's date and the window as dates: from the last review, else the plan's current period (this month, this quarter).
 3. **Get each actual with its newest date.**
-   - Prefer a count something already keeps (a dashboard, a widget, a report), and quote it with its source and date.
+   - Prefer a count something already keeps (a dashboard, a report, a table the project counts), and quote it with its source and date.
    - When you count rows yourself, state the rule: which file, which rows (the column and the value), which dates. Use the dates written in the rows; a file's last-changed date says nothing about when the work happened. Leave out rows dated after today and rows whose date you can't read, and say how many.
    - The newest date is the latest row or reading the actual rests on. Compare it with how often the source should get news. A source past its rhythm is quiet: its count stops at that date, and the days since are unknown (never report them as zero).
    - When two sources give different numbers for the same thing, give both and say which one the target was set against.
@@ -53,12 +53,13 @@ If you can only see what is pasted into the conversation, ask for the plan and t
 
 In an Alcoven project, use its tools and cite each line by its § address:
 
-1. `open_project`: the home widgets with their readings and newest days, and any table waiting on this person (a quiet table is a "couldn't count" line).
-2. `read` on the plan document (often `gtm/readme.md`): each widget line comes back as its reading, with the target, the gap, the days left, the newest day and a quiet or stopped line. Quote the reading as it is, without counting again. If a widget line comes back as a bare link, get its figures with `numbers`.
-3. `what_changed` with `who: "everyone"` and `since:` the last review's date: what the team did.
-4. Only when the answer needs it: `numbers` for a cut the readings don't give (replies by channel, sign-ups by source), or `read` on a table (a CSV file, or a Google Sheet's `.source.md`) for its rows, such as who replied.
+1. `open_project`: what waits on this person, and the tasks with what each was expected to bring and what came of it.
+2. `read` on the plan document (often `gtm/readme.md`): each engine's targets, and the source and measure each target names.
+3. `numbers` for each target: the source and the measure it names, `since` the window's first day, `compare: "target 60"`. Quote the reading as it is, with its newest row and whether the source went quiet, without counting again. `read` on the `.source.md` says how often rows should come and who keeps it.
+4. `what_changed` with `who: "everyone"` and `since:` the last review's date: what the team did.
+5. Only when the answer needs it: `numbers` with `by:` a field for a cut the readings don't give (replies by channel, sign-ups by source), or `read` on a table (a CSV file, or a Google Sheet's `.source.md`) for its rows, such as who replied.
 
-Four calls are usually enough. To keep the review, show the person the text, then write it with `add_document`, with each widget's line under its engine; tell them that Write the numbers in, on the document in Alcoven, keeps that day's numbers in place.
+Five calls are usually enough. To keep the review, show the person the text, then write it with `add_document`, each engine's readings under it as they were that day.
 
 ## Elsewhere
 

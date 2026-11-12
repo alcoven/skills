@@ -98,7 +98,7 @@ Beside it, `experiments/log.source.md` tells Alcoven how to count the log:
 Every test the team designs and reads, so anyone on the project can see what was tested and what held.
 ```
 
-If the team asks about these counts more than once, offer a widget on the project's home, for example `experiments/tests.widget.md` with `# Tests read`, `- Show: line`, `- Measure: tests read`, `- From: experiments/log.source.md`, and a line on why it is there.
+When the team asks about these counts, `numbers` on `experiments/log.source.md` answers, for example the measure `tests read` by month.
 
 ## The decision on record
 
@@ -116,7 +116,7 @@ If the team asks about these counts more than once, offer a widget on the projec
 - What would reopen this: [a measure and a line, or a date]
 ```
 
-When others must agree, hand it out for agreement. For decisions with more at stake than one test, use the decision-making skill if the project has it.
+When others must agree, ask each of them in writing (in Alcoven, a note on the decision addressed to them). For decisions with more at stake than one test, use the decision-making skill if the project has it.
 
 ## Worked example (invented)
 
@@ -199,4 +199,4 @@ date,id,stage,belief,test,pass_line,result,rate,evidence,decision,owner,card
 
 **The next test card (E-08)** reaches a higher rung: "At least 20% of the 30 office managers within 1 km of Linden whom the account manager contacts will place a paid group pre-order within three weeks." X comes from the product lead's model: six offices ordering weekly would pay for a group-order version. Stop below 2 offices.
 
-**The decision on record,** handed out for agreement to the developer (their ten weeks move) and the account manager (they run E-08): no build of single pre-orders; test group orders for offices next; reopen single pre-orders if E-08 fails and a second bakery's area shows more than 5% in the same test.
+**The decision on record,** sent to the developer (the ten weeks of building they planned move) and the account manager (they run E-08), asking each to agree: no build of single pre-orders; test group orders for offices next; reopen single pre-orders if E-08 fails and a second bakery's area shows more than 5% in the same test.

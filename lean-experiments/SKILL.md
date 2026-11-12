@@ -4,7 +4,7 @@ description: Finds the riskiest assumptions in a plan or idea and tests the one 
 license: MIT
 metadata:
   source: https://alcoven.co/skills/lean-experiments
-  version: "2"
+  version: "3"
 ---
 
 # Lean experiments: test the riskiest assumption first
@@ -77,10 +77,10 @@ When someone wants to build a big bet untested ("let's just build it, we know th
 
 Pass the project's slug; cite by § address.
 
-1. `open_project`, then `search` or `related` on the idea and `read` on `experiments/`: what is already tested or believed. `agreed` with `about:` the idea before proposing to change something agreed.
+1. `open_project`, then `search` on the idea and `read` on `experiments/`: what is already tested, believed or decided. A test that would change something decided goes to the person first.
 2. `add_document` for each test card, `experiments/YYYY-MM-DD-<slug>.md`, after showing the person the text; `task` for whoever runs it, due the day the test ends, standing on the card's § address.
 3. `add_rows` on `experiments/log.csv`: a row for the card, a row for the result. Its `log.source.md` lets Alcoven count it; if the project has no log yet, show the person both files' first lines ([references/cards-and-log.md](references/cards-and-log.md)) and add them on their yes. Read a result that comes from product numbers with `numbers`.
-4. The learning card goes on the card with `edit_document`. The persevere, pivot or stop call goes on record with `add_document`, then `hand_out` with `ask: agree` to whoever must agree.
+4. The learning card goes on the card with `edit_document`. The persevere, pivot or stop call goes on record with `add_document`, then an `add_note` on it for each person who must agree, `to` that person.
 
 ## Elsewhere
 
